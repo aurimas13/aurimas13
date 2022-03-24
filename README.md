@@ -12,7 +12,8 @@
   <img alt="aurimas13's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 </a>
 </p>
-<p align="center"> <a href="https://twitter.com/aurimasnausedas" target="blank"><img src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> </p> ![](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13)
+<p align="center"> <a href="https://twitter.com/aurimasnausedas" target="blank"><img src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> </p> 
+[](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13)
 
 
 ```yaml
