@@ -30,7 +30,7 @@ technical_background: ["Python", "Javascript", "Bioinformatics", "Optimization",
 currently_learning: ["Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
-<h3 align="right">A passionate Developer and Data Engineer from Lithuania</h3>
+<h3 align="left">A passionate Developer and Data Engineer.</h3>
 
 - 🔭 I’m currently working on one [chemical analysis](https://github.com/aurimas13/Chemical-analysis) and [another related project](https://github.com/aurimas13/Smiles-analysis)
 
