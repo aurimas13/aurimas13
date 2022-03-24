@@ -44,3 +44,5 @@ hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 <p><img height="150px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aurimas13&" alt="aurimas13" /></p>
 <br></br>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurimas13&show_icons=true&locale=en&layout=compact" alt="aurimas13" /></p> -->
+
+<!-- [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
