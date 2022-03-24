@@ -43,6 +43,4 @@ hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 
 <p><img height="190px" align="left" src="https://github-readme-stats.vercel.app/api?username=aurimas13&show_icons=true&locale=en" alt="aurimas13" /></p>
 <p><img height="190px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aurimas13&" alt="aurimas13" /></p>
-
-<!-- fadfasfasfasfasmfkasfsakfsanfsanfasfnasfaskfnasfksanfkasfasfksfasfkasfaskfafafasfasfasfasfasf -->
 <p><img height="150px "align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurimas13&show_icons=true&locale=en&layout=compact" alt="aurimas13" /></p>
