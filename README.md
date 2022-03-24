@@ -31,7 +31,7 @@ hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
 <h3 align="center">A passionate Developer and Data Engineer who: </h3>
 
-- 🔭 is currently working on one [chemical analysis](https://github.com/aurimas13/Chemical-analysis) and [another related project](https://github.com/aurimas13/Smiles-analysis)
+- 🔭 is currently working on [chemical analysis] (https://github.com/aurimas13/Chemical-analysis) and [drawing](https://github.com/aurimas13/Smiles-analysis) projects
 - 🌱 is currently learning **ML intermediate skills & expanding Data Engineering skillset**
 - 👯 is looking to collaborate on a [personal website](https://github.com/aurimas13/Personal-website)
 - 💬 can be asked about **Python**
