@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13)
+<!-- [](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13) -->
 
 <p align="center">
 <a href="https://twitter.com/aurimasnausedas">
