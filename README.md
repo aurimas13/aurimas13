@@ -29,7 +29,7 @@ technical_background: ["Python", "Javascript", "Bioinformatics", "Chemoinformati
 currently_learning: ["Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
-<h3 align="center">A passionate Developer and Data Engineer who: </h3>
+<h3 align="center">A passionate Developer and Data Engineer who </h3>
 
 - 🔭 is currently working on a [chemical analysis] (https://github.com/aurimas13/Chemical-analysis) and another [related project](https://github.com/aurimas13/Smiles-analysis) 
 - 🌱 is currently learning **ML intermediate skills & expanding Data Engineering skillset**
