@@ -30,14 +30,11 @@ technical_background: ["Python", "Javascript", "Bioinformatics", "Optimization",
 currently_learning: ["Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
-<h3 align="left">A passionate Developer and Data Engineer.</h3>
+<h3 align="center">A passionate Developer and Data Engineer</h3>
 
 - 🔭 I’m currently working on one [chemical analysis](https://github.com/aurimas13/Chemical-analysis) and [another related project](https://github.com/aurimas13/Smiles-analysis)
-
 - 🌱 I’m currently learning **ML intermediate skills & expanding Data Engineering skillset**
-
 - 👯 I’m looking to collaborate on a [personal website](https://github.com/aurimas13/Personal-website)
-
 - 💬 Ask me about **Python**
 
 <h3 align="left">Languages and Tools:</h3>
