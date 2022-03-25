@@ -1,7 +1,7 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13) -->
-<h1 align="center"> Hi I'm Aurimas 👋 </h1> 
+<h1 align="left"> Hi I'm Aurimas 👋 </h1> 
 
-<p align="center"> <a href="https://twitter.com/aurimasnausedas" target="blank"><img src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> </p> 
+<p align="left"> <a href="https://twitter.com/aurimasnausedas" target="blank"><img src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> </p> 
 
 ```yaml
 name: Aurimas Aleksandras Nausedas
@@ -42,7 +42,7 @@ Languages & Technologies: `Python`, `Jupyter`, `Tensorflow`, `Docker`, `PyMOL` \
 <!-- ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜! -->
 ## How to reach me:
-You can get in touch with me at the email in my github portfolio. Follow my socials!
+<!-- You can get in touch with me at the email in my github portfolio. Follow my socials! -->
 
 <p align="left">
 <a href="https://twitter.com/aurimasnausedas">
