@@ -1,5 +1,5 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13) -->
-<p> Hi I'm Aurimas 👋 </p> 
+<p size="50px"> **Hi I'm Aurimas** 👋 </p> 
 
 <p align="left"> 
   <img height="25px" src="https://gpvc.arturio.dev/aurimas13" alt="profile views">  
