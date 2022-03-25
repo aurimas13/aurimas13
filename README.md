@@ -75,9 +75,10 @@ Languages & Technologies: `Python`, `Jupyter`, `Docker`, `PyMOL` \
 
 <h3> My GitHub Activity </h3>
 <!-- <h3> 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 </h3> -->
-<p><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=aurimas13&show_icons=true&locale=en" alt="aurimas13" /></p>
-<p><img height="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aurimas13&" alt="aurimas13" /></p>
+<p><img height="110em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aurimas13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="aurimas13" /></p>
+<p><img height="110em" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aurimas13&" alt="aurimas13" /></p>
 <br></br>
+
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurimas13&show_icons=true&locale=en&layout=compact" alt="aurimas13" /></p> -->
 
 <!-- [![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
