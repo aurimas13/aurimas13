@@ -40,15 +40,13 @@ hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Euromonitor" src="https://logovectordl.com/wp-content/uploads/2020/04/euromonitor-international-logo-vector.png"/>](https://www.euromonitor.com/)
-
 **Data Engineer** \
 [**Euromonitor International**](https://www.euromonitor.com/) • Full-time \
-Languages & Technologies: `JavaSript`, `GitLab` \
+Languages & Technologies: `JavaScript`, `GitLab` \
 <br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="VIlnius University" src="https://www.vu.lt/site_images/infor/vaizdai_spaudai/Logo_spalvotas.png"/>](https://www.vu.lt/)
-
 **Research Engineer (Machine Learning)** \
 [**Warpnet**](https://warpnet.nl/) • Full-time \
 Languages & Technologies: `Python`, `Jupyter`, `Tensorflow`, `Docker`, `PyMOL` \
