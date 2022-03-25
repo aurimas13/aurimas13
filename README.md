@@ -26,10 +26,10 @@ I currently work on two chemical ([lipophilicites](https://github.com/aurimas13/
 
 <!-- - See [my yet to be updated profile here](https://www.linkedin.com/in/aurimasnausedas/). -->
 - 👯 I am on the [Artificial Intelligence of Lithuania](https://lithuania.ai/), [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/), and [IEEE Computer Society](https://www.computer.org/) members lists.
-- 🌱 I intensively learn about **ML intermediate skills & expannd Data Engineering expertise**
-
 <!-- - 👯 I search for fellow developers to collaborate on a [personal website](https://github.com/aurimas13/Personal-website) -->
-- 💬 Ask me about about **Python** as my knowledge builds on [Complete Python Developer course](https://www.udemy.com/certificate/UC-c3951e1b-dd47-4c1c-9d3f-f153744dd337/), having done [Calculator](https://github.com/aurimas13/Calculator-program) with [Web Scraper](https://github.com/aurimas13/Web-Scraper) programs, **Python** studies sincd 2013, and [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/) as seen from [here](https://github.com/aurimas13/Web-programs) and learnt more from [here](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/).
+- 💬 Ask me about about **Python** as my knowledge builds on [Complete Python Developer course](https://www.udemy.com/certificate/UC-c3951e1b-dd47-4c1c-9d3f-f153744dd337/), having done [Calculator](https://github.com/aurimas13/Calculator-program) with [Web Scraper](https://github.com/aurimas13/Web-Scraper) programs, having studied **Python** since 2013, and [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/) as seen from [here](https://github.com/aurimas13/Web-programs) and learnt more about from [here](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/).
+- 🌱 I intensively learn about **ML intermediate skills & expannd Data Engineering expertise**.
+
 ### Work Experience
 
 In the overview below you will find my most recent work experience:
