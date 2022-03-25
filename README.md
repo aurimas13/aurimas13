@@ -28,7 +28,7 @@ I currently work on two chemical ([lipophilicites](https://github.com/aurimas13/
 - 👯 I am the [Artificial Intelligence Association of Lithuania](https://lithuania.ai/), [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/) & [IEEE Computer Society](https://www.computer.org/) member.
 - 💬 Ask me about about **Python** as my knowledge builds on [Complete Python Developer course](https://www.udemy.com/certificate/UC-c3951e1b-dd47-4c1c-9d3f-f153744dd337/), having done [Calculator](https://github.com/aurimas13/Calculator-program) with [Web Scraper](https://github.com/aurimas13/Web-Scraper) programs and having studied **Python** since 2013. 
 - 💬 You may also question me about [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/) as its expertise builds on [this](https://github.com/aurimas13/Web-programs) & [this](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/).
-- 🌱 I intensively learn about **ML intermediate skills & expannd Data Engineering expertise**.
+- 🌱 To recapitulate, currently I learn about **ML intermediate skills & expand Data Engineering expertise**.
 <!-- - 👯 I search for fellow developers to collaborate on a [personal website](https://github.com/aurimas13/Personal-website) -->
 
 ### Work Experience
