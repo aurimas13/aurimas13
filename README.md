@@ -1,7 +1,7 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13) -->
 <h1 align="center"> Hi I'm Aurimas 👋 </h1> 
 
-<p align="left"> <a href="https://twitter.com/aurimasnausedas" target="blank"><img src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> </p> 
+<p align="center"> <a href="https://twitter.com/aurimasnausedas" target="blank"><img src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> </p> 
 
 ```yaml
 name: Aurimas Aleksandras Nausedas
