@@ -51,7 +51,7 @@ Languages & Technologies: `JavaSript`, `GitLab` \
 
 **Research Engineer (Machine Learning)** \
 [**Warpnet**](https://warpnet.nl/) • Full-time \
-Languages & Technologies: `Python`, 'Jupyter', `Tensorflow`, `Docker`, `PyMOL` \
+Languages & Technologies: `Python`, `Jupyter`, `Tensorflow`, `Docker`, `PyMOL` \
 <br/>
 
 <br/>
