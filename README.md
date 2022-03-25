@@ -2,8 +2,8 @@
 <h1 align="left"> Hi I'm Aurimas 👋 </h1> 
 
 <p align="left"> 
-  <img src="https://gpvc.arturio.dev/aurimas13" alt="profile views"> •  
-  <a href="https://twitter.com/aurimasnausedas" target="blank"><img src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a>  •
+  <img src="https://gpvc.arturio.dev/aurimas13" alt="profile views">  
+  <a href="https://twitter.com/aurimasnausedas" target="blank"><img height="150px" src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a>  •
 </p> 
 
 ```yaml
