@@ -5,8 +5,6 @@
   <a href="https://twitter.com/aurimasnausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> 
 </p> 
 
----
-
 ```yaml
 name: Aurimas Aleksandras Nausedas
 located_in: Vilnius, Lithuania
