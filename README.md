@@ -5,7 +5,7 @@
 </p> 
 
 ```yaml
-name: Aurimas Aleksandras Nausedas
+name: Aurimas Aleksandras Nausėdas
 located_in: Vilnius, Lithuania
 from: Vilnius (Lithuania)
 job: Data Engineer
