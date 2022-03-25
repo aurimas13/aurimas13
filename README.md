@@ -24,7 +24,7 @@ job: Data Engineer
 education: ["Master's in Chemistry", "Certificates in Computer Science"]
 company: Euromonitor International
 
-fields_of_interests: ["Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI interactionn"]
+fields_of_interests: ["Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI interaction"]
 technical_background: ["Python", "Javascript", "Bioinformatics", "Chemoinformatics"]
 currently_learning: ["Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
