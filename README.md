@@ -17,9 +17,17 @@ technical_background: ["Python", "Javascript", "Bioinformatics", "Chemoinformati
 currently_learning: ["Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
-<h3 align="left"> A passionate Developer and Data Engineer who: </h3>
 
-- 🔭 currently works on two chemical projects ([Lipophilicites](https://github.com/aurimas13/Chemical-analysis) & [Smiles](https://github.com/aurimas13/Smiles-analysis)) 
+---
+
+I'm a passionate Developer and Data Engineer. At work I write [JavaScript codes](), on spare time learn about [Machine Learning](), [Artificial Intelligence]() and expand [Data Engineering arsenal](). Each early morning before work I follow with [the current news of technology]() and tweet [them]() daily.
+
+I currently work on two chemical ([lipophilicites](https://github.com/aurimas13/Chemical-analysis), [smiles](https://github.com/aurimas13/Smiles-analysis)) & [personal website](https://github.com/aurimas13/Personal-website)projects to gain new expertise in DE, Web Development & ML fields apart from expanding knowledge in Bioinformatics & Chemoinformatics.
+<a href="https://myoctocat.dev/@sw-yx/octocat">
+  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+</a>
+- 
+
 - 🌱 intensively learns about **ML intermediate skills & expands Data Engineering arsenal**
 - 👯 looks for fellow developers to collaborate on a [personal website](https://github.com/aurimas13/Personal-website)
 - 💬 loves speaking about **Python** and implementing it
