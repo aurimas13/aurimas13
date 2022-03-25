@@ -16,7 +16,7 @@ technical_background: ["Python", "Javascript", "Bioinformatics", "Chemoinformati
 currently_learning: ["Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
-<h3 align="left"> A passionate Developer and Data Engineer who </h3>
+<h3 align="left"> A passionate Developer and Data Engineer who: </h3>
 
 - 🔭 currently works on two chemical projects ([Lipophilicites](https://github.com/aurimas13/Chemical-analysis) & [Smiles](https://github.com/aurimas13/Smiles-analysis)) 
 - 🌱 intensively learns about **ML intermediate skills & expands Data Engineering arsenal**
