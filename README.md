@@ -65,7 +65,7 @@ Languages & Technologies: `Python`, `Jupyter`, `Tensorflow`, `Docker`, `PyMOL` \
 
 
 <p><img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=aurimas13&show_icons=true&locale=en" alt="aurimas13" /></p>
-<p><img height="160px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aurimas13&" alt="aurimas13" /></p>
+<p><img height="160px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aurimas13&" alt="aurimas13" /></p>
 <br></br>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurimas13&show_icons=true&locale=en&layout=compact" alt="aurimas13" /></p> -->
 
