@@ -20,16 +20,16 @@ hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 
 ---
 
-I'm a passionate Developer and Data Engineer. At work I write [JavaScript codes](), on spare time learn about [Machine Learning](), [Artificial Intelligence]() and expand [Data Engineering arsenal](). Each early morning before work I follow with [the current news of technology]() and tweet [them]() daily.
+I'm a passionate Developer and Data Engineer. At work I write [JavaScript codes](), on spare time learn about [Machine Learning](), [Artificial Intelligence]() and expand [Data Engineering arsenal](https://www.udemy.com/certificate/UC-2402535e-44ca-4090-9507-29d094ab24ff/). Each early morning before work I follow with [the current news of CS/AGI/AI/Robotics](https://twitter.com/i/lists/1455819654539132937) and tweet some of [them](https://twitter.com/aurimasnausedas/with_replies) daily.
 
-I currently work on two chemical ([lipophilicites](https://github.com/aurimas13/Chemical-analysis), [smiles](https://github.com/aurimas13/Smiles-analysis)) & [personal website](https://github.com/aurimas13/Personal-website)projects to gain new expertise in DE, Web Development & ML fields apart from expanding knowledge in Bioinformatics & Chemoinformatics.
+I currently work on two chemical ([lipophilicites](https://github.com/aurimas13/Chemical-analysis), [smiles](https://github.com/aurimas13/Smiles-analysis)) & [personal website](https://github.com/aurimas13/Personal-website) projects to gain new expertise in DE, Web Development & ML apart from expanding knowledge in Bioinformatics & Chemoinformatics.
 
-- 
+<!-- - See [my yet to be updated profile here](https://www.linkedin.com/in/aurimasnausedas/). -->
+- 👯 I am on the [Artificial Intelligence of Lithuania](https://lithuania.ai/), [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/), and [IEEE Computer Society](https://www.computer.org/) members lists.
+- 🌱 I intensively learn about **ML intermediate skills & expannd Data Engineering expertise**
 
-- 🌱 intensively learns about **ML intermediate skills & expands Data Engineering arsenal**
-- 👯 looks for fellow developers to collaborate on a [personal website](https://github.com/aurimas13/Personal-website)
-- 💬 loves speaking about **Python** and implementing it
-
+<!-- - 👯 I search for fellow developers to collaborate on a [personal website](https://github.com/aurimas13/Personal-website) -->
+- 💬 Ask me about about [**Python**](https://www.udemy.com/certificate/UC-c3951e1b-dd47-4c1c-9d3f-f153744dd337/) and [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/) as seen from [here](https://github.com/aurimas13/Web-programs) and learnt more from [here](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/).
 ### Work Experience
 
 In the overview below you will find my most recent work experience:
