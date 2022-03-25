@@ -51,7 +51,7 @@ Languages & Technologies: `Python`, `Jupyter`, `Docker`, `PyMOL` \
 <!-- ## How to reach me: -->
 <!-- You can get in touch with me at the email in my github portfolio. Follow my socials! -->
 
-<h3 align="left"> How to reach me:</h3>
+<h3 align="left"> If you are a workaholic or are late to the coding party <h2>Get In Touch</h2>:</h3>
 
 <p align="left">
 <a href="https://twitter.com/aurimasnausedas">
