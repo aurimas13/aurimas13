@@ -1,21 +1,6 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13) -->
 <h1 align="center"> Hi I'm Aurimas 👋 </h1> 
 
-<p align="center">
-<a href="https://twitter.com/aurimasnausedas">
-  <img alt="aurimasnausedas | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
-</a>
-<a href="https://www.linkedin.com/in/aurimasnausedas">
-  <img alt="aurimas13's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://www.instagram.com/aurimasnausedas/">
-  <img alt="aurimas13's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
-</a>
-<a href="https://open.spotify.com/user/aurimas.n">
-  <img alt="aurimas13's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-</p>
-
 <p align="left"> <a href="https://twitter.com/aurimasnausedas" target="blank"><img src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> </p> 
 
 ```yaml
@@ -56,7 +41,9 @@ Languages & Technologies: `Python`, `Jupyter`, `Tensorflow`, `Docker`, `PyMOL` \
 
 <!-- ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜! -->
-How to reach me:
+## How to reach me:
+You can get in touch with me at the email in my github portfolio. Follow my socials!
+
 <p align="left">
 <a href="https://twitter.com/aurimasnausedas">
   <img alt="aurimasnausedas | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
