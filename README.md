@@ -36,7 +36,7 @@ Languages & Technologies: `JavaScript`, `GitLab` \
 [<img align="left" height="94px" width="94px" alt="VIlnius University" src="https://www.vu.lt/site_images/infor/vaizdai_spaudai/Logo_spalvotas.png"/>](https://www.vu.lt/)
 **Research Engineer (Machine Learning)** \
 [**Warpnet**](https://warpnet.nl/) • Full-time \
-Languages & Technologies: `Python`, `Jupyter`, `Tensorflow`, `Docker`, `PyMOL` \
+Languages & Technologies: `Python`, `Jupyter`, `Docker`, `PyMOL` \
 <br/>
 
 <!-- ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
