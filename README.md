@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13) -->
 <h1 align="center"> Hi I'm Aurimas 👋 </h1> 
 
 <p align="center">
