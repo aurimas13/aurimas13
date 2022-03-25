@@ -20,7 +20,7 @@ hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 
 ---
 
-I'm a passionate Developer and Data Engineer. At work I write [JavaScript codes](), on spare time learn about [Machine Learning](), [Artificial Intelligence]() and expand [Data Engineering arsenal](https://www.udemy.com/certificate/UC-2402535e-44ca-4090-9507-29d094ab24ff/). Each early morning before work I follow with [the current news of CS/AGI/AI/Robotics](https://twitter.com/i/lists/1455819654539132937) and tweet some of [them](https://twitter.com/aurimasnausedas/with_replies) daily.
+I'm a passionate Developer and Data Engineer. At work I write [JavaScript codes](), on spare time learn about [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), [Artificial Intelligence](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) and expand [Data Engineering arsenal](https://www.udemy.com/certificate/UC-2402535e-44ca-4090-9507-29d094ab24ff/). Each early morning before work I follow with [the current news of CS/AGI/AI/Robotics](https://twitter.com/i/lists/1455819654539132937) and tweet some of [them](https://twitter.com/aurimasnausedas/with_replies) daily.
 
 I currently work on two chemical ([lipophilicites](https://github.com/aurimas13/Chemical-analysis), [smiles](https://github.com/aurimas13/Smiles-analysis)) & [personal website](https://github.com/aurimas13/Personal-website) projects to gain new expertise in DE, Web Development & ML apart from expanding knowledge in Bioinformatics & Chemoinformatics.
 
