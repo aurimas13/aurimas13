@@ -50,9 +50,9 @@ Languages & Technologies: `Python`, `Jupyter`, `Docker`, `PyMOL` \
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜! -->
 <!-- ## How to reach me: -->
 <!-- You can get in touch with me at the email in my github portfolio. Follow my socials! -->
+<!-- If you are a workaholic or are late to the coding party -->
 
-<h3 align="left"> If you are a workaholic or are late to the coding party <h2>Get In Touch</h2>:</h3>
-
+<h3 align="left"> Get In Touch:</h3>
 <p align="left">
 <a href="https://twitter.com/aurimasnausedas">
   <img alt="aurimasnausedas | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
