@@ -1,4 +1,4 @@
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13) -->
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  
 # Hi I'm Aurimas 👋  
 <p align="left"> 
   <img height="25px" src="https://gpvc.arturio.dev/aurimas13" alt="profile views">  
