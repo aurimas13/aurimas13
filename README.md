@@ -16,7 +16,7 @@ technical_background: ["Python", "Javascript", "Bioinformatics", "Chemoinformati
 currently_learning: ["Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
-<h3 align="left">A passionate Developer and Data Engineer who </h3>
+<h3 align="left"> 🖥 A passionate Developer and Data Engineer who </h3>
 
 - 🔭 currently works on two chemical projects ([Lipophilicites](https://github.com/aurimas13/Chemical-analysis) & [Smiles](https://github.com/aurimas13/Smiles-analysis)) 
 - 🌱 intensively learns about **ML intermediate skills & expands Data Engineering arsenal**
@@ -43,7 +43,8 @@ Languages & Technologies: `Python`, `Jupyter`, `Tensorflow`, `Docker`, `PyMOL` \
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜! -->
 <!-- ## How to reach me: -->
 <!-- You can get in touch with me at the email in my github portfolio. Follow my socials! -->
-<h3 align="left">How to reach me:</h3>
+
+<h3 align="left"> 📫 How to reach me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/aurimasnausedas">
