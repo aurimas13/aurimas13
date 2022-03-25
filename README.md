@@ -75,8 +75,8 @@ Languages & Technologies: `Python`, `Jupyter`, `Docker`, `PyMOL` \
 
 <h3> My GitHub Activity </h3>
 <!-- <h3> 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢 </h3> -->
-<p><img height="130em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aurimas13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="aurimas13" /></p>
-<p><img height="150px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aurimas13&layout=compact&langs_count=8&theme=algolia" alt="aurimas13" /></p>
+<p><img height="150em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aurimas13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="aurimas13" /></p>
+<p><img height="150ex" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aurimas13&layout=compact&langs_count=8&theme=algolia" alt="aurimas13" /></p>
 <p><img height="130em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aurimas13&layout=compact&langs_count=8&theme=algolia" alt="aurimas13" /></p>
 <br></br>
 
