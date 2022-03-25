@@ -36,9 +36,8 @@ hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 - 👯 looks for fellow developers to collaborate on a [personal website](https://github.com/aurimas13/Personal-website)
 - 💬 can be asked about **Python**
 
-<p align="center">
-### Work Experience
-</p)
+<h3 align="center">Work Experience </h3>
+
 In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Euromonitor" src="https://logovectordl.com/wp-content/uploads/2020/04/euromonitor-international-logo-vector.png"/>](https://www.euromonitor.com/)
