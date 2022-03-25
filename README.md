@@ -1,6 +1,5 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=aurimas13.aurimas13) -->
 # Hi I'm Aurimas 👋  
-
 <p align="left"> 
   <img height="25px" src="https://gpvc.arturio.dev/aurimas13" alt="profile views">  
   <a href="https://twitter.com/aurimasnausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> 
