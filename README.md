@@ -17,6 +17,7 @@ technical_background: ["Python", "Javascript"]
 currently_learning: ["Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
+---
 
 I'm a passionate Developer and Data Engineer. At work I write JavaScript codes, on spare time learn about [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), [Artificial Intelligence](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) and expand [Data Engineering](https://www.udemy.com/certificate/UC-2402535e-44ca-4090-9507-29d094ab24ff/) arsenal. Each morning I get acquainted with the news of [technology world](https://twitter.com/i/lists/1455819654539132937). <!-- and tweet about [them](https://twitter.com/aurimasnausedas/with_replies) daily. -->
 
