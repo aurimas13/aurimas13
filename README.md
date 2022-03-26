@@ -14,7 +14,7 @@ company: Euromonitor International
 
 fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI interaction"]
 technical_background: ["Python", "Javascript"]
-currently_learning: ["Public Speaking"]
+currently_learning: ["Machine Learning", "Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
 ---
