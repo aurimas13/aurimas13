@@ -64,7 +64,7 @@ Languages & Technologies: `Python`, `Jupyter`, `Docker`, `PyMOL` \
 <a href="https://www.instagram.com/aurimasnausedas/">
   <img alt="aurimas13's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
-<a href="hhttps://www.facebook.com/aurimasanausedas">
+<a href="https://www.facebook.com/aurimasanausedas">
   <img alt="aurimas13's Facebook" width="50px" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/facebook_free.jpeg" />
 </a>
 <a href="https://open.spotify.com/user/aurimas.n">
