@@ -67,7 +67,7 @@ Languages & Technologies: `Python`, `Jupyter`, `Docker`, `PyMOL` \
 <a href="https://open.spotify.com/user/aurimas.n">
   <img alt="aurimas13's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
 <a href="hhttps://www.facebook.com/aurimasanausedas">
-  <img alt="aurimas13's Facebook" width="50px" src="hhttps://github.com/aurimas13/aurimas13/blob/main/docs/images/facebook_free.jpeg" />
+  <img alt="aurimas13's Facebook" width="50px" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/facebook_free.jpeg" />
 </a>
 </p>
 
