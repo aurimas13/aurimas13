@@ -23,11 +23,11 @@ I'm a passionate Developer and Data Engineer. At work, I write JavaScript codes,
 
 I currently work on two chemical ([lipophilicity](https://github.com/aurimas13/Chemical-analysis), [smiles](https://github.com/aurimas13/Smiles-analysis)) projects & a [personal website](https://github.com/aurimas13/Personal-website) to gain new expertise in Data Engineering, Web Development & Machine Learning apart from expanding knowledge in Computer Science & Neuroscience. <!-- as seen [here](https://github.com/aurimas13/CTR-prediction), [here](https://github.com/aurimas13/Chemical-analysis) and [here](https://github.com/aurimas13/Smiles-analysis). -->
 
-- ⚡ See my additional profile [here](https://www.linkedin.com/in/aurimasnausedas/) where you can also find **an interesting introduction story**.
+- ⚡ See my additional profile [here](https://www.linkedin.com/in/aurimasnausedas/) where you can find **an interesting introduction story**.
 - 👯 I am the [Artificial Intelligence Association of Lithuania](https://lithuania.ai/), [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/) & [IEEE Computer Society](https://www.computer.org/) member.
 - 💬 Ask me about **Python** as its proficiency builds on the [Complete Python Developer](https://www.udemy.com/certificate/UC-c3951e1b-dd47-4c1c-9d3f-f153744dd337/) course, having finished [Learn Python The Hard Way](https://github.com/aurimas13/Python-solutions) online book, having recently done [Calculator](https://github.com/aurimas13/Calculator-program) and [Web Scraper](https://github.com/aurimas13/Web-Scraper) projects as well as having worked with **Python** since 2013. 
 - 💬 You may also question me about [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/) as its expertise builds on [this](https://github.com/aurimas13/Web-programs) & [this](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/).
-- 🌱 <!-- To recapitulate, I know **Python** & --> Currently I am learning about **ML intermediate skills** and expanding **Data Engineering knowledge**.
+- 🌱 <!-- To recapitulate, I know **Python** & --> Currently I am learning about **Machine LearningL** *intermediate skills* and expanding **Data Engineering** *knowledge*.
 <!-- - 👯 I search for fellow developers to collaborate on a [personal website](https://github.com/aurimas13/Personal-website) -->
 
 ### Work Experience
