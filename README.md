@@ -27,8 +27,8 @@ Currently I am solving [HackerRank & LeetCode](https://github.com/aurimas13/Hack
 - 👯 I am the [Artificial Intelligence Association of Lithuania](https://lithuania.ai/), [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/) & [IEEE Computer Society](https://www.computer.org/) member.
 - 💬 Ask me about **Python** as its proficiency builds on these [Python Solutions](https://github.com/aurimas13/HackerRank-Leetcode), [Complete Python Developer](https://www.udemy.com/certificate/UC-c3951e1b-dd47-4c1c-9d3f-f153744dd337/) course, having finished [Learn Python The Hard Way](https://github.com/aurimas13/Python-solutions) book, having recently done [Calculator](https://github.com/aurimas13/Calculator-program) and [Web Scraper](https://github.com/aurimas13/Web-Scraper) projects as well as having worked with **Python** since 2013. 
 - 💬 You may also question me about [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/) as its expertise builds on [this](https://github.com/aurimas13/Web-programs) & [this](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/).
+- 👯 I am open to hearing about collaborations from fellow developers to create websites and hone further my **Web Development** skills as well as other invitations to join projects that utilizes **Python***.
 - 🌱 <!-- To recapitulate, I know **Python** & --> Currently I am learning about **Machine Learning** *intermediate skills* and expanding **Python** *knowledge*.
-- 👯 I am open to hearing about collaborations from fellow developers to create websites and hone further my **Web Development** skills as well as other invitations to join projects that utilizes **Pythonm**.
 
 ### Work Experience
 
