@@ -8,9 +8,9 @@
 name: Aurimas Aleksandras Nausėdas
 located_in: Vilnius, Lithuania
 from: Vilnius (Lithuania)
-job: Data Engineer
+job: Python Developer & Fullstack Engineer
 education: ["Master's in Chemistry", "Certificates in Computer Science"]
-company: Euromonitor International
+company: CS & ML Design
 
 fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI interaction"]
 technical_background: ["Python", "Javascript"]
@@ -33,6 +33,12 @@ Currently I am solving [HackerRank & LeetCode](https://github.com/aurimas13/Hack
 ### Work Experience
 
 In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="CAMD" src="https://ibb.co/gSy7rsT"/>](https://www.linkedin.com/company/81844988/admin/)
+**Python Developer** \
+[**CS & ML Design**](https://www.linkedin.com/company/81844988/admin/) • Contract \
+Languages & Technologies: `Python`, `GitHub`, 'Django', 'Tensorflow', 'Keras' \
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="Euromonitor" src="https://logovectordl.com/wp-content/uploads/2020/04/euromonitor-international-logo-vector.png"/>](https://www.euromonitor.com/)
 **Data Engineer** \
