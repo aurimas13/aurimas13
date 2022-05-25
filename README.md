@@ -34,7 +34,7 @@ Currently I am solving [HackerRank & LeetCode](https://github.com/aurimas13/Hack
 
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="CAMD" src="https://ibb.co/gSy7rsT"/>](https://www.linkedin.com/company/81844988/admin/)
+[<img align="left" height="94px" width="94px" alt="CAMD" src="https://pasteboard.co/GRLRadbAyYQf.jpg"/>](https://www.linkedin.com/company/81844988/admin/)
 **Python Developer** \
 [**CS & ML Design**](https://www.linkedin.com/company/81844988/admin/) • Contract \
 Languages & Technologies: `Python`, `GitHub`, 'Django', 'Tensorflow', 'Keras' \
