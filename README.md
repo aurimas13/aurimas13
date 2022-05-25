@@ -37,7 +37,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CAMD_blue_v3.jpg"/>](https://www.linkedin.com/company/81844988/admin/)
 **Python Developer** \
 [**CS & ML Design**](https://www.linkedin.com/company/81844988/admin/) • Contract \
-Languages & Technologies: `Python`, `GitHub`, `Django`, `Tensorflow`, `Keras` \
+Languages & Technologies: `Python`, `GitHub`, `Django`, `Keras` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Euromonitor" src="https://logovectordl.com/wp-content/uploads/2020/04/euromonitor-international-logo-vector.png"/>](https://www.euromonitor.com/)
