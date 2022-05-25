@@ -13,7 +13,7 @@ education: ["Master's in Chemistry", "Certificates in Computer Science"]
 company: CS & ML Design
 
 fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI interaction"]
-technical_background: ["Python", "Javascript"]
+technical_background: ["Python", "SQL", "Django", "Javascript"]
 currently_learning: ["Machine Learning", "Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
