@@ -6,6 +6,7 @@
 </p> 
 <!-- https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif -->
 <!-- https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png -->
+
 ```yaml
 name: Aurimas Aleksandras Nausėdas
 located_in: Vilnius, Lithuania
