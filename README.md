@@ -1,4 +1,5 @@
 # Hi I'm Aurimas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  
+<div class="tenor-gif-embed" data-postid="12359359" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/wave-hand-sup-hi-gif-12359359">Wave Hand GIF</a>from <a href="https://tenor.com/search/wave-gifs">Wave GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <p align="left">   
   <img height="25px" src="https://gpvc.arturio.dev/aurimas13" alt="profile views">  
   <a href="https://twitter.com/aurimasnausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> 
