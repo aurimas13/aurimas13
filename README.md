@@ -1,4 +1,4 @@
-# Hi I'm Aurimas <img src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png" width="35px">  
+# Hi I'm Aurimas <img src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png" width="30px">  
 
 <p align="left">   
   <img height="25px" src="https://gpvc.arturio.dev/aurimas13" alt="profile views">  
