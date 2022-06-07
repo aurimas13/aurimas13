@@ -4,7 +4,7 @@
   <img height="25px" src="https://gpvc.arturio.dev/aurimas13" alt="profile views">  
   <a href="https://twitter.com/aurimasnausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aurimasnausedas?logo=twitter&style=for-the-badge" alt="aurimasnausedas" /></a> 
 </p> 
-<!-- https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif -->
+https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif
 <!-- https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png -->
 
 ```yaml
