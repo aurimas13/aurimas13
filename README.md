@@ -11,7 +11,7 @@
 name: Aurimas Aleksandras Nausėdas
 located_in: Vilnius, Lithuania
 from: Vilnius (Lithuania)
-job: Python Developer & ML Engineer
+job: Python Developer
 education: ["Master's in Chemistry", "Certificates in Computer Science"]
 company: CS & ML Design
 
