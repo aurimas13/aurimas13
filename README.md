@@ -18,7 +18,7 @@ education: ["Master's in Chemistry", "Certificates in Computer Science"]
 company: CS & ML Design
 
 fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI interaction"]
-technical_background: ["Python", "SQL", "Django", "Javascript", "Machine Learning"]
+technical_background: ["Python", "Machine Learning", "SQL", "Django", "Javascript"]
 currently_learning: ["Machine Learning", "Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
@@ -40,7 +40,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CAMD_blue_v4.png"/>](https://www.linkedin.com/company/81844988/admin/)
 **Python Developer** \
 [**CS & ML Design**](https://www.linkedin.com/company/81844988/admin/) • Contract \
-Languages & Technologies: `Python`, `GitHub`, `Django`, `Keras` \
+Languages & Technologies: `Python`, `Machine Learning`, `GitHub`, `Django`, `Keras` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Euromonitor" src="https://logovectordl.com/wp-content/uploads/2020/04/euromonitor-international-logo-vector.png"/>](https://www.euromonitor.com/)
