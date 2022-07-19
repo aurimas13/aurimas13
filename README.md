@@ -3,7 +3,7 @@
 <p align="left">   
   <img height="25px" src="https://gpvc.arturio.dev/aurimas13?style=social" alt="profile views" title="profile views">  
   <img height="25px" title="profile views" src="https://img.shields.io/github/stars/aurimas13?label=Stars&style=plastic" alt="stars" title ="Stars">
-  <a href="https://twitter.com/aurimasnausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aurimasnausedas?label=Follow&style=plastic" alt="aurimasnausedas" /></a> 
+  <a href="https://twitter.com/aurimasnausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aurimasnausedas?label=Follow%20%40aurimasnausedas&style=plastic" alt="aurimasnausedas" /></a> 
 </p> 
 <! -- <img height="25px" src="https://img.shields.io/github/followers/aurimas13?label=Followers&style=plastic" alt="followers"> -->
 <!-- https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif -->
