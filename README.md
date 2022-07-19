@@ -5,7 +5,7 @@
   <img height="25px" title="profile views" src="https://img.shields.io/github/stars/aurimas13?label=Stars&style=flat" alt="stars" title ="Stars">
   <a href="https://twitter.com/aurimasnausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aurimasnausedas?label=Follow%20%40aurimasnausedas&style=flat" alt="aurimasnausedas" /></a> 
 </p> 
-<! -- <img height="25px" src="https://img.shields.io/github/followers/aurimas13?label=Followers&style=plastic" alt="followers"> -->
+<!-- <img height="25px" src="https://img.shields.io/github/followers/aurimas13?label=Followers&style=plastic" alt="followers"> -->
 <!-- https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif -->
 <!-- https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png -->
 
@@ -18,12 +18,10 @@ education: ["Master's in Chemistry", "Certificates in Computer Science"]
 company: CS & ML Design
 
 fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI interaction"]
-technical_background: ["Python", "SQL", "Django", "Javascript"]
+technical_background: ["Python", "SQL", "Django", "Javascript", "Machine Learning"]
 currently_learning: ["Machine Learning", "Public Speaking"]
 hobbies: ["Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
----
-
 I'm a passionate Developer and Data Engineer. At work I code in Python & use Machine Learning while in spare time I hone [Python](https://www.udemy.com/certificate/UC-00f510ae-c409-42c9-8f61-b75b254c598d/), [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), [Artificial Intelligence](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) skills and expand [Data Engineering](https://www.udemy.com/certificate/UC-2402535e-44ca-4090-9507-29d094ab24ff/) arsenal. Each morning I get acquainted with the news of [the technology world](https://twitter.com/i/lists/1455819654539132937) and solve [LeetCode problem](https://leetcode.com/aurimas13/) a day. <!-- and tweet about [them](https://twitter.com/aurimasnausedas/with_replies) daily. -->
 
 Currently I am solving and working on[LeetCode-HackerRank-MAANG](https://github.com/aurimas13/LeetCode-HackerRank-MAANG) repo, finished small [Birthday Reminder Appication](https://github.com/aurimas13/BirthdayReminderApp), am working on chemical ([lipophilicity](https://github.com/aurimas13/Chemical-analysis), [smiles](https://github.com/aurimas13/Smiles-analysis)) projects & developing a [personal website](https://github.com/aurimas13/Personal-website) to gain new expertise in Python, Data Engineering, Web Development & Machine Learning apart from expanding knowledge in Software Engineering & Neuroscience. <!-- as seen [here](https://github.com/aurimas13/CTR-prediction), [here](https://github.com/aurimas13/Chemical-analysis) and [here](https://github.com/aurimas13/Smiles-analysis). -->
