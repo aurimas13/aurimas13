@@ -38,7 +38,7 @@ Currently I am solving and working on[LeetCode-HackerRank-MAANG](https://github.
 In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CAMD_blue_v4.png"/>](https://www.linkedin.com/company/81844988/admin/)
-**Python Developer** \
+**Python Developer** & **ML Engineer** \
 [**CS & ML Design**](https://www.linkedin.com/company/81844988/admin/) • Contract \
 Languages & Technologies: `Python`, `Machine Learning`, `GitHub`, `Django`, `Keras` \
 <br/>
