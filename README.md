@@ -18,8 +18,8 @@ job: Python Developer & ML Engineer
 education: ["Master's in Chemistry", "Certificates in Computer Science"]
 company: Code Academy | CS & ML Design
 
-fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI interaction"]
-technical_background: ["Python", "Machine Learning", "SQL", "Flask", "Javascript"]
+fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI Interaction"]
+technical_background: ["Python", "Machine Learning", "SQL", "Flask", "Javascript", "Terraform", "AWS"]
 currently_learning: ["Machine Learning", "Spark", "Public Speaking"]
 hobbies: ["Public Speaking", "Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
@@ -49,7 +49,7 @@ Languages & Technologies: `Teaching`, `Pedagogy`, `Publc Speaking` \
 [<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CAMD_blue_v4.png"/>](https://www.linkedin.com/company/81844988/admin/)
 **Python Developer** & **ML Engineer** \
 [**CS & ML Design**](https://www.linkedin.com/company/81844988/admin/) • Self-Employed & Freelance\
-Languages & Technologies: `Python`, `Flask`,`Django`, `Node`, `React`, `Spark`, `Machine Learning`, `GitHub`, `Tensorflow`, `Keras` \
+Languages & Technologies: `Python`, `Flask`, `Django`, `Node`, `React`, `Spark`, `Machine Learning`, `GitHub`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `AWS` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Euromonitor" src="https://logovectordl.com/wp-content/uploads/2020/04/euromonitor-international-logo-vector.png"/>](https://www.euromonitor.com/)
