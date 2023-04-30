@@ -3,7 +3,6 @@
 <p align="left">   
   <img height="25px" title="stars" src="https://img.shields.io/github/stars/aurimas13?style=social" alt="stars" title ="Stars">
   <img height="25px" title="github followers" src="https://img.shields.io/github/followers/aurimas13?style=social" alt="followers" title ="followers">
-  <a href="https://twitter.com/anausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/url?label=Aurimas%20&style=social&url=https%3A%2F%2Ftwitter.com%2Fanausedas" alt="anausedas" /></a> 
   <a href="https://twitter.com/anausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/anausedas?label=follow Aurimas&style=social" alt="anausedas" /></a> 
 </p> 
 <!-- <img height="25px" src="https://img.shields.io/github/followers/aurimas13?label=Followers&style=plastic" alt="followers"> -->
