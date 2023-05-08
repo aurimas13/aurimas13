@@ -17,7 +17,7 @@ located_in: Vilnius, Lithuania
 from: Vilnius (Lithuania)
 job: Python Developer & ML Engineer
 education: ["Master's in Chemistry", "Certificates in Computer Science"]
-company: C& R Software | Code Academy | CS & ML Design
+company: C&R Software | Code Academy | CS & ML Design
 
 fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI Interaction"]
 technical_background: ["Python", "Machine Learning", "SQL", "Flask", "Javascript", "Terraform", "AWS"]
