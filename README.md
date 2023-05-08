@@ -20,8 +20,8 @@ education: ["Master's in Chemistry", "Certificates in Computer Science"]
 company: C&R Software | Code Academy | CS & ML Design
 
 fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI Interaction"]
-technical_background: ["Python", "Machine Learning", "SQL", "Flask", "Javascript", "Terraform", "AWS"]
-currently_learning: ["Machine Learning", "Spark", "Public Speaking"]
+technical_background: ["Python", "Java", "Machine Learning", "SQL", "Flask", "Javascript", "Terraform", "AWS"]
+currently_learning: ["Machine Learning",  "Java", "Spark", "Public Speaking"]
 hobbies: ["Public Speaking", "Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
  
