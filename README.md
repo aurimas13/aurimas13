@@ -42,7 +42,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="CodeAcademy" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/cr-software.jpg"/>](https://codeacademy.lt/en/)
 **Technical Consultant** \
 [**C&R Software**](https://codeacademy.lt/en/) • Contract\
-Languages & Technologies: `Java`, `Python`, `PostgreSQL`, `Amazon Web Services (AWS)`, `SQL`, `Teamwork` \ \
+Languages & Technologies: `Java`, `Python`, `PostgreSQL`, `Amazon Web Services (AWS)`, `SQL`, `Teamwork` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="CodeAcademy" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CodeAcademy_baltas.png"/>](https://codeacademy.lt/en/)
