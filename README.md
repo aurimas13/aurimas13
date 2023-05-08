@@ -29,20 +29,19 @@ In my professional journey, I've been fortunate to work in diverse domains like 
 
 I actively contribute to several projects like [Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness), [AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course), and [Solutions-To_Problems](https://github.com/aurimas13/Solutions-To-Problems). I believe in learning by doing, and my hands-on experience with a multitude of projects is a testament to my passion for technology.
 
-Apart from my technical expertise, I'm also an avid reader and a public speaking enthusiast. I'm a proud member of the Python Software Foundation, Artificial Intelligence Association of Lithuania, Association for the Advancement of Artificial Intelligence (AAAI), and IEEE Computer Society.
+Apart from my technical expertise, I'm also an avid reader and a public speaking enthusiast. I'm a member of several computing and philantropic organisations.
 
 Feel free to explore my work, connect with me on [LinkedIn](https://www.linkedin.com/in/aurimasnausedas/), or follow me on [Twitter]() for interesting updates and conversations. I'm always open to collaborations and opportunities to work together on exciting projects!
 
 Together, let's build a future where technology and innovation drive the world towards greater heights. 🚀
 
-
-- ⚡ See my additional profile [here](https://www.linkedin.com/in/aurimasnausedas/) where you can find **an interesting introduction story**.
-- 📫 **If you came here by liking what I post in social media - follow me there**! Details are below the section of **Get In Touch**!
+- ⚡ Check out my additional profile [here](https://www.linkedin.com/in/aurimasnausedas/) to find **an engaging introduction story**.
+- 📫 **If you're here because you enjoy my social media posts, follow me there**! Details can be found in the **Get In Touch** section below!
 - 👯 I am a proud member of [Python Software Foundation](https://www.python.org/psf/), [Artificial Intelligence Association of Lithuania](https://lithuania.ai/), [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/) & [IEEE Computer Society](https://www.computer.org/).
-- 💬 Ask me about **Python** as its  proficiency builds on working with [Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness), [AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course), these [Python Solutions](https://github.com/aurimas13/Solutions-To-Problems), daily [LeetCode Solutions](https://leetcode.com/aurimas13/), [Complete Python Developer](https://www.udemy.com/certificate/UC-c3951e1b-dd47-4c1c-9d3f-f153744dd337/) course, having finished [Learn Python The Hard Way](https://github.com/aurimas13/Python-solutions) book, having recently done [[Road-App](https://github.com/aurimas13/Road-App), [Time Tracker](https://github.com/aurimas13/Time-Tracker), [Birthday Reminder](https://github.com/aurimas13/BirthdayReminderApp), [Communication of Services](https://github.com/aurimas13/Communication-of-Services), [Calculator](https://github.com/aurimas13/Calculator-program) and [Web Scraper](https://github.com/aurimas13/Web-Scraper) projects as well as having worked with **Python** since 2013. 
-- 💬 You may also question me about [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/) as its expertise builds on having finished several other courses ([Django](https://www.udemy.com/certificate/UC-4c6d7d87-39e7-4152-ad6b-74a154a1a34e/), [GCS with Python](https://www.udemy.com/course/develop-a-social-web-party-application-with-python/learn/lecture/9426334#overview), [Spring Boot - Angular](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/)) and written programs that can be accessed [here](https://github.com/aurimas13/Web-programs).
-- 👯 I am open to hearing about collaborations from fellow developers or ML engineers to hone **Machine Learning** skills, work with **AI** or **AGI** projects, **Flask** or **SQL**, create **Python** based technologies through expanding **Development** arsenal as well as other invitations to join you to utilize **Python**.
-- 🌱 To recapitulate: I know **Python** well, am honing **Machine Learning** *advanced skills* and expanding **Python** *knowledge* further.
+- 💬 Feel free to ask me about **Python**. My proficiency is built on experience with[Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness), [AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course), these [Python Solutions](https://github.com/aurimas13/Solutions-To-Problems), daily [LeetCode Solutions](https://leetcode.com/aurimas13/), [Complete Python Developer](https://www.udemy.com/certificate/UC-c3951e1b-dd47-4c1c-9d3f-f153744dd337/) course, having finished [Learn Python The Hard Way](https://github.com/aurimas13/Python-solutions) book, and various projects such as [Road-App](https://github.com/aurimas13/Road-App), [Time Tracker](https://github.com/aurimas13/Time-Tracker), [Birthday Reminder](https://github.com/aurimas13/BirthdayReminderApp), [Communication of Services](https://github.com/aurimas13/Communication-of-Services), [Calculator](https://github.com/aurimas13/Calculator-program) and [Web Scraper](https://github.com/aurimas13/Web-Scraper). I have been working with **Python** since 2013.
+- 💬 You can also ask me about [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/), as my expertise is built on completing several courses ([Django](https://www.udemy.com/certificate/UC-4c6d7d87-39e7-4152-ad6b-74a154a1a34e/), [GCS with Python](https://www.udemy.com/course/develop-a-social-web-party-application-with-python/learn/lecture/9426334#overview), [Spring Boot - Angular](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/)) and developing programs found [here](https://github.com/aurimas13/Web-programs).
+- 👯 I'm open to collaboration opportunities with fellow developers or ML engineers to sharpen my **Machine Learning** skills, work on **AI** or **AGI** projects, **Flask** or more **SQL**, create **Java** and **Python-based** technologies by broadening my **Development** arsenal, and other invitations to utilize **Java** and **Python**.
+- 🌱 In summary: I am proficient in **Python**, continually advancing my **Machine Learning** skills with **Java**, and further expanding my **Python** *knowledge*.
 
 
 ### Work Experience
@@ -128,74 +127,3 @@ Languages & Technologies: `Python`, `Jupyter`, `Docker`, `PyMOL` \
 
 <!-- ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto) -->
-
-<!-- # Hi I'm Aurimas 👋🏼
-<!-- <img src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png" width="30px">   -->
-<p align="left">   
-  <img height="25px" title="stars" src="https://img.shields.io/github/stars/aurimas13?style=social" alt="stars" title ="Stars">
-  <img height="25px" title="github followers" src="https://img.shields.io/github/followers/aurimas13?style=social" alt="followers" title ="followers">
-  <a href="https://twitter.com/anausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/anausedas?label=follow Aurimas&style=social" alt="anausedas" /></a> 
-</p> 
-<!-- <img height="25px" src="https://img.shields.io/github/followers/aurimas13?label=Followers&style=plastic" alt="followers"> -->
-<!-- https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif -->
-<!-- https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png -->
-
-```yaml
-name: Aurimas Aleksandras Nausėdas
-located_in: Vilnius, Lithuania
-from: Vilnius (Lithuania)
-job: Python Developer & ML Engineer
-education: ["Master's in Chemistry", "Certificates in Computer Science"]
-company: Code Academy | CS & ML Design
-
-fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Robotics", "Robot-AI Interaction"]
-technical_background: ["Python", "Machine Learning", "SQL", "Flask", "Javascript", "Terraform", "AWS"]
-currently_learning: ["Machine Learning", "Spark", "Public Speaking"]
-hobbies: ["Public Speaking", "Reading", "Walking", "Running", "Basketball", "Formula 1"]
-```
-I'm a passionate Developer, Lecturer and ML Engineer. At work I teach about Python, Artificial Intelligence concepts & use Machine Learning for practicals while in spare time I hone [Python](https://www.udemy.com/certificate/UC-00f510ae-c409-42c9-8f61-b75b254c598d/), [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), [Artificial Intelligence](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) skills further and expand [Data Engineering](https://www.udemy.com/certificate/UC-2402535e-44ca-4090-9507-29d094ab24ff/) arsenal. Each morning I get acquainted with the news of [the technology world](https://twitter.com/i/lists/1455819654539132937) and solve a [LeetCode problem](https://leetcode.com/aurimas13/) a day. <!-- and tweet about [them](https://twitter.com/aurimasnausedas/with_replies) daily. -->
-
-Currently, I am working on [Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness), [AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course) and [Solutions-To_Problems](https://github.com/aurimas13/Solutions-To-Problems) repos daily, finished [Road-App](https://github.com/aurimas13/Road-App) application, [Time Tracker](https://github.com/aurimas13/Time-Tracker) program, completed a small [Birthday Reminder Application](https://github.com/aurimas13/BirthdayReminderApp) as well as [Communication between two services program](https://github.com/aurimas13/Communication-of-Services), and previously finished two chemical ([lipophilicity](https://github.com/aurimas13/Chemical-analysis), [smiles](https://github.com/aurimas13/Smiles-analysis)) projects. When I have spare time I am reading [technological, public speaking, business books](https://www.goodreads.com/user/show/127138083-aurimas-a-nausedas) like Deep Learning, The Art of Public Speaking or Build The Damn Thing, also developing a [personal website](https://github.com/aurimas13/Personal-website) that has not been looked at for over a year yet hoping to deploy it sometime this or next year as this way I will gain new expertise in Python, Data Engineering, Web Development & Machine Learning apart from expanding knowledge in Software Engineering & Neuroscience. <!-- as seen [here](https://github.com/aurimas13/CTR-prediction), [here](https://github.com/aurimas13/Chemical-analysis) and [here](https://github.com/aurimas13/Smiles-analysis). -->
-
-- ⚡ See my additional profile [here](https://www.linkedin.com/in/aurimasnausedas/) where you can find **an interesting introduction story**.
-- 📫 **If you came here by liking what I post in social media - follow me there**! Details are below the section of **Get In Touch**!
-- 👯 I am a member of [Python Software Foundation](https://www.python.org/psf/), [Artificial Intelligence Association of Lithuania](https://lithuania.ai/), [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/) & [IEEE Computer Society](https://www.computer.org/).
-- 💬 Ask me about **Python** as its  proficiency builds on working with [Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness), [AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course), these [Python Solutions](https://github.com/aurimas13/Solutions-To-Problems), daily [LeetCode Solutions](https://leetcode.com/aurimas13/), [Complete Python Developer](https://www.udemy.com/certificate/UC-c3951e1b-dd47-4c1c-9d3f-f153744dd337/) course, having finished [Learn Python The Hard Way](https://github.com/aurimas13/Python-solutions) book, having recently done [[Road-App](https://github.com/aurimas13/Road-App), [Time Tracker](https://github.com/aurimas13/Time-Tracker), [Birthday Reminder](https://github.com/aurimas13/BirthdayReminderApp), [Communication of Services](https://github.com/aurimas13/Communication-of-Services), [Calculator](https://github.com/aurimas13/Calculator-program) and [Web Scraper](https://github.com/aurimas13/Web-Scraper) projects as well as having worked with **Python** since 2013. 
-- 💬 You may also question me about [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/) as its expertise builds on having finished several other courses ([Django](https://www.udemy.com/certificate/UC-4c6d7d87-39e7-4152-ad6b-74a154a1a34e/), [GCS with Python](https://www.udemy.com/course/develop-a-social-web-party-application-with-python/learn/lecture/9426334#overview), [Spring Boot - Angular](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/)) and written programs that can be accessed [here](https://github.com/aurimas13/Web-programs).
-- 👯 I am open to hearing about collaborations from fellow developers or ML engineers to hone **Machine Learning** skills, work with **AI** or **AGI** projects, **Flask** or **SQL**, create **Python** based technologies through expanding **Development** arsenal as well as other invitations to join you to utilize **Python**.
-- 🌱 To recapitulate: I know **Python** well, am honing **Machine Learning** *advanced skills* and expanding **Python** *knowledge* further.
-
-
-### Work Experience
-
-In the overview below you will find my most recent work experience:
-
-[<img align="left" height="94px" width="94px" alt="CodeAcademy" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/cr-software.jpg"/>](https://codeacademy.lt/en/)
-**Technical Consultant** \
-[**C&R Software**](https://codeacademy.lt/en/) • Contract\
-Languages & Technologies: `Java`, `Python`, `PostgreSQL`, `Amazon Web Services (AWS)`, `SQL`, `Teamwork` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="CodeAcademy" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CodeAcademy_baltas.png"/>](https://codeacademy.lt/en/)
-**Lecturer** \
-[**Code Academy**](https://codeacademy.lt/en/) • Contract\
-Languages & Technologies: `Teaching`, `Pedagogy`, `Publc Speaking` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CAMD_blue_v4.png"/>](https://www.linkedin.com/company/81844988/admin/)
-**Python Developer** & **ML Engineer** \
-[**CS & ML Design**](https://www.linkedin.com/company/81844988/admin/) • Self-Employed & Freelance\
-Languages & Technologies: `Python`, `Flask`, `Django`, `Node`, `React`, `Spark`, `Machine Learning`, `GitHub`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `AWS` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Euromonitor" src="https://logovectordl.com/wp-content/uploads/2020/04/euromonitor-international-logo-vector.png"/>](https://www.euromonitor.com/)
-**Data Engineer** \
-[**Euromonitor International**](https://www.euromonitor.com/) • Full-time \
-Languages & Technologies: `JavaScript`, `GitLab` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="VIlnius University" src="https://www.vu.lt/site_images/infor/vaizdai_spaudai/Logo_spalvotas.png"/>](https://www.vu.lt/)
-**Research Engineer (Machine Learning)** \
-[**Vilnius University**](https://www.vu.lt/) • Full-time \
-Languages & Technologies: `Python`, `Jupyter`, `Docker`, `PyMOL` \
-<br/> -->
