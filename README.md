@@ -52,7 +52,7 @@ In the overview below you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="CodeAcademy" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/cr-software.jpg"/>](https://codeacademy.lt/en/)
 **Technical Consultant** \
 [**C&R Software**](https://codeacademy.lt/en/) • Contract\
-Languages & Technologies: `Machine Learning', `Terraform`, 'Java`, `Python`, `PostgreSQL`, `Amazon Web Services (AWS)`, `SQL`, `Teamwork` \
+Languages & Technologies: `Machine Learning`, `Terraform`, 'Java`, `Python`, `PostgreSQL`, `Amazon Web Services (AWS)`, `SQL`, `Teamwork` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="CodeAcademy" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CodeAcademy_baltas.png"/>](https://codeacademy.lt/en/)
@@ -64,7 +64,7 @@ Languages & Technologies: `Teaching`, `Pedagogy`, `Publc Speaking` \
 [<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CAMD_blue_v4.png"/>](https://www.linkedin.com/company/81844988/admin/)
 **Python Developer** & **ML Engineer** \
 [**CS & ML Design**](https://www.linkedin.com/company/81844988/admin/) • Self-Employed & Freelance\
-Languages & Technologies:  `Terraform`, `Amazon Web Services (AWS)`, `Machine Learnign`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, Spark`, `GitHub`, `Python`, `Flask`, `Django`, `Node`, `React` \
+Languages & Technologies:  `Terraform`, `Amazon Web Services (AWS)`, `Machine Learnign`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `Spark`, `GitHub`, `Python`, `Flask`, `Django`, `Node`, `React` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Euromonitor" src="https://logovectordl.com/wp-content/uploads/2020/04/euromonitor-international-logo-vector.png"/>](https://www.euromonitor.com/)
