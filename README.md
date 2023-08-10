@@ -31,7 +31,7 @@ I actively contribute to several projects like [Machine-Learning-Goodness](https
 
 Apart from my technical expertise, I'm also an avid reader and a public speaker as well as a member of several computing and philantropic organisations.
 
-Feel free to explore my work, connect with me on [LinkedIn](https://www.linkedin.com/in/aurimasnausedas/), or follow me on [Twitter](https://twitter.com/anausedas) for interesting updates and conversations. I'm always open to collaborations and opportunities to work together on exciting projects!
+Feel free to explore my work, connect with me on [LinkedIn](https://www.linkedin.com/in/aurimasnausedas/), or follow me on [Twitter](https://twitter.com/AurimasNausedas) for interesting updates and conversations. I'm always open to collaborations and opportunities to work together on exciting projects!
 
 Together, let's build a future where technology and innovation drive the world towards greater heights. 🚀
 
