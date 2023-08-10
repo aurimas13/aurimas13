@@ -27,7 +27,7 @@ hobbies: ["Public Speaking", "Reading", "Walking", "Running", "Basketball", "For
  
 In my professional journey, I've been fortunate to work in diverse domains like teaching Python, developing AI and ML applications, and building data engineering solutions. As a lifelong learner, I keep myself updated with the latest advancements in technology and strive to solve complex problems using my ever-expanding toolbox that includes Python, Java, Machine Learning, SQL, Flask, JavaScript, Terraform, and AWS.
 
-I actively contribute to several projects like [Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness), [AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course), [Python Course](https://github.com/aurimas13/Python-Beginner-Course), and [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems). I believe in learning by doing, and my hands-on experience with a multitude of projects is a testament to my passion for technology.
+I actively contribute to several projects like [Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness), [AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course), [Python Course](https://github.com/aurimas13/Python-Beginner-Course), and daily [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems). I believe in learning by doing, and my hands-on experience with a multitude of projects is a testament to my passion for technology.
 
 Apart from my technical expertise, I'm also an avid reader and a public speaking enthusiast. I'm a member of several computing and philantropic organisations.
 
