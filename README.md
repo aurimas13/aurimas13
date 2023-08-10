@@ -29,7 +29,7 @@ In my professional journey, I've been fortunate to work in diverse domains like 
 
 I actively contribute to several projects like [Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness), [AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course), [Python Course](https://github.com/aurimas13/Python-Beginner-Course), and daily problems solved at [Solutions-To-Problems](https://github.com/aurimas13/Solutions-To-Problems). I believe in learning by doing, and my hands-on experience with a multitude of projects is a testament to my passion for technology.
 
-Apart from my technical expertise, I'm also an avid reader and a public speaking enthusiast. I'm a member of several computing and philantropic organisations.
+Apart from my technical expertise, I'm also an avid reader and a public speaker as well as a member of several computing and philantropic organisations.
 
 Feel free to explore my work, connect with me on [LinkedIn](https://www.linkedin.com/in/aurimasnausedas/), or follow me on [Twitter](https://twitter.com/anausedas) for interesting updates and conversations. I'm always open to collaborations and opportunities to work together on exciting projects!
 
