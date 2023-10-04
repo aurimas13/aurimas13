@@ -1,4 +1,4 @@
-# Hi there, I'm Aurimas 👋🏼
+# Hi there, I'm Aurimas [Alex] 👋🏼
 <!-- <img src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png" width="30px">   -->
 <p align="left">   
   <img height="25px" title="stars" src="https://img.shields.io/github/stars/aurimas13?style=social" alt="stars" title ="Stars">
@@ -9,7 +9,7 @@
 <!-- https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif -->
 <!-- https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png -->
 
-I'm Aurimas, a Python Developer, Machine Learning Engineer, Technical Consultant and passionate Lecturer from Vilnius, Lithuania. I'm on a quest to explore the ever-evolving world of technology and expand my skill set in [Computer Science](https://www.udemy.com/certificate/UC-00f510ae-c409-42c9-8f61-b75b254c598d/), [Data Engineering](https://www.udemy.com/certificate/UC-2402535e-44ca-4090-9507-29d094ab24ff/), [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), [AI](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), AGI, Robotics, and Robot-AI Interaction.
+I'm Aurimas for Lithuanians or Alex for others. I'm a Python Developer, Artificial Intelligence Engineer, Machine Learning Engineer and passionate Teacher from Vilnius, Lithuania. I'm on a quest to explore the ever-evolving world of technology and expand my skill set in [Computer Science](https://www.udemy.com/certificate/UC-00f510ae-c409-42c9-8f61-b75b254c598d/), [Data Engineering](https://www.udemy.com/certificate/UC-2402535e-44ca-4090-9507-29d094ab24ff/), [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), [AI](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), AGI, Robotics, and Robot-AI Interaction.
  
 ```yaml
 name: Aurimas Aleksandras Nausėdas
