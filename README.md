@@ -47,7 +47,7 @@ Together, let's build a future where technology and innovation drive the world t
 
 ### Work Experience
 
-In the overview below you will find my most recent work experience:
+In the overview below, you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CAMD_blue_v4.png"/>](https://www.linkedin.com/company/81844988/admin/)
 **Python Developer** & **AI/ML Engineer** \
