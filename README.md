@@ -55,9 +55,9 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `Machine Learning`, `Terraform`, `Java`, `Python`, `PostgreSQL`, `Amazon Web Services (AWS)`, `SQL`, `Teamwork` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="CodeAcademy" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/likta.png"/>](https://likta.lv/en/home-en/)
+[<img align="left" height="94px" width="94px" alt="likta" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/likta.png"/>](https://likta.lv/en/home-en/)
 **Teacher** \
-[**Latvian Information and communications technology association (LIKTA) **](https://likta.lv/en/home-en/) • Full-time\
+[**Latvian Information and communications technology association (LIKTA) **](https://likta.lv/en/home-en/) • Contract\
 Languages & Technologies: `Teaching`, `Pedagogy`, `Public Speaking` \
 <br/>
 
