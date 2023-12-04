@@ -61,7 +61,7 @@ Languages & Technologies:  `Terraform`, `Amazon Web Services (AWS)`, `LangChain`
 Languages & Technologies: `Machine Learning`, `Java`, `Python`, `PostgreSQL`, `Amazon Web Services (AWS)`, `SQL`, `Teamwork` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="likta" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/likta.png"/>](https://likta.lv/en/home-en/)
+[<img align="left" height="94px" width="94px" alt="likta" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/likta_bw.png"/>](https://likta.lv/en/home-en/)
 **Teacher** \
 [**Latvian Information and communications technology association (LIKTA)**](https://likta.lv/en/home-en/) • Contract\
 Languages & Technologies: `Teaching`, `Pedagogy`, `Public Speaking` \
