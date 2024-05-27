@@ -19,8 +19,8 @@ job: Developer & AI/ML Engineer
 education: ["Master's in Chemistry", "Certificates in Computer Science"]
 company: CS & ML Design | Code Academy | LIKTA
 
-fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Chemistry", "Mental Health", "Robot-AI Interaction"]
-technical_background: ["Python", "Java", "Machine Learning", "SQL", "Flask", "Javascript", "Terraform", "Spark", "Databricks", "Azure", "AWS"]
+fields_of_interests: ["Computer Science", "Data Engineering", "Machine Learning", "Artificial Intelligence", "Artificial General Intelligence", "Chemistry", "Mental Health", "Robot-AI Interaction", "LLM"]
+technical_background: ["Python", "Java", "Machine Learning", "SQL", "Flask", "Javascript", "Terraform", "Spark", "Databricks", "Azure", "AWS", "GCP"]
 currently_learning: ["Public Speaking"]
 hobbies: ["Public Speaking", "Reading", "Walking", "Running", "Basketball", "Formula 1"]
 ```
@@ -50,9 +50,9 @@ Let's build a future where technology and innovation drive the world towards gre
 In the overview below, you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CAMD_blue_v4.png"/>](https://www.linkedin.com/company/81844988/admin/)
-**Developer** & **AI/ML Engineer** \
-[**CS & ML Design**](https://www.linkedin.com/company/81844988/admin/) • Self-Employed & Freelance\
-Languages & Technologies:  `Terraform`, `Azure`, `AWS`, `LangChain`, `Databricks`, `Machine Learning`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `Spark`, `GitHub`, `Docker`, `Python`, `Flask`, `Django` \
+**Developer**, **ML Engineer** & **AI Architect** \
+[**Self-Employed**](https://www.linkedin.com/company/81844988/admin/) • Freelance\
+Languages & Technologies:  `Terraform`, `Azure`, `AWS`, `GCP`, `LangChain`, `Databricks`, `Machine Learning`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `Spark`, `GitHub`, `Docker`, `Python`, `Flask`, `Django`, `Hugging Face` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="CodeAcademy" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/cr-software.jpg"/>](https://codeacademy.lt/en/)
