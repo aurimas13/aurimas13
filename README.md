@@ -1,4 +1,4 @@
-# Hi there, I'm Aurimas | Alex 👋🏼
+# Hi there, I'm Alex 👋🏼
 <!-- <img src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png" width="30px">   -->
 <p align="left">   
   <img height="25px" title="stars" src="https://img.shields.io/github/stars/aurimas13?style=social" alt="stars" title ="Stars">
