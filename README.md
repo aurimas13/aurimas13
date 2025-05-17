@@ -12,7 +12,7 @@
 I'm **Aurimas** for Lithuanians and **Alexandre** for others: a  Developer, Artificial Intelligence Engineer, Machine Learning Engineer and a passionate Teacher from Vilnius, Lithuania. I'm on a quest to explore the ever-evolving world of technology and expand my skill set in [Computer Science](https://www.udemy.com/certificate/UC-00f510ae-c409-42c9-8f61-b75b254c598d/), [Data Engineering](https://www.udemy.com/certificate/UC-2402535e-44ca-4090-9507-29d094ab24ff/), [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), [AI](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n), AGI and Robot-AI Interaction with emphasis of it on healthcare as well as talk about the bridge between artificial intelligence and healthcare in [Molecule to Machine](https://moleculetomachine.substack.com/) Newsletter. Using AI tools, I also write about Mental Health, particularly loneliness, through my stories to overcome it at [Transcend Loneliness](https://transcendloneliness.substack.com/) blog.
  
 ```yaml
-name: Aurimas Aleksandras Nausėdas
+name: Aurimas
 located_in: Vilnius, Lithuania
 from: Vilnius (Lithuania)
 job: Developer & AI/ML Engineer
@@ -31,11 +31,11 @@ I actively contribute to several projects like [Machine-Learning-Goodness](https
 
 Apart from my technical expertise, I'm also an avid reader and a public speaker, as well as a member of several computing and philanthropic organisations.
 
-Feel free to explore my work, connect with me on [LinkedIn](https://www.linkedin.com/in/aurimasnausedas/), or follow me on [X (previously Twitter)](https://twitter.com/aurimas1213) for exciting updates and conversations. I'm always open to collaborations and opportunities to work on exciting projects!
+Feel free to explore my work, <!-- connect with me on [LinkedIn](https://www.linkedin.com/in/aurimasnausedas/), or --> follow me on [X (previously Twitter)](https://twitter.com/aurimas1213) for exciting updates and conversations. I'm always open to collaborations and opportunities to work on exciting projects!
 
 Let's build a future where technology and innovation drive the world towards greater heights. 🚀
 
-- ⚡ Check out my additional profile [here](https://www.linkedin.com/in/aurimasnausedas/) to find **an engaging introduction story**.
+<!-- - ⚡ Check out my additional profile [here](https://www.linkedin.com/in/aurimasnausedas/) to find **an engaging introduction story**. -->
 - 📫 **If you're here because you enjoy my social media posts, follow me there**! Details can be found in the **Get In Touch** section below!
 - 👯 I am a proud member of [Python Software Foundation](https://www.python.org/psf/), [Artificial Intelligence Association of Lithuania](https://lithuania.ai/), [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/) & [IEEE Computer Society](https://www.computer.org/).
 - 💬 Feel free to ask me about **Python**. My proficiency on it is built on experience with [Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness), [AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course), these [Python Solutions](https://github.com/aurimas13/Solutions-To-Problems), daily [LeetCode Solutions](https://leetcode.com/aurimas13/), [Complete Python Developer](https://www.udemy.com/certificate/UC-c3951e1b-dd47-4c1c-9d3f-f153744dd337/) course, having finished [Learn Python The Hard Way](https://github.com/aurimas13/Python-solutions) book, and various projects such as [Road-App](https://github.com/aurimas13/Road-App), [Time Tracker](https://github.com/aurimas13/Time-Tracker), [Birthday Reminder](https://github.com/aurimas13/BirthdayReminderApp), [Communication of Services](https://github.com/aurimas13/Communication-of-Services), [Calculator](https://github.com/aurimas13/Calculator-program) and [Web Scraper](https://github.com/aurimas13/Web-Scraper). I have been working with **Python** since 2013.
