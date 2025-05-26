@@ -99,8 +99,8 @@ Languages & Technologies: `Machine Learning`, `Python`, `Jupyter`, `Docker`, `Py
 <!-- <a href="https://www.linkedin.com/in/aurimasnausedas">
   <img alt="aurimas13's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a> -->
-<a href="https://www.instagram.com/aurimas1213/">
-  <img alt="aurimasaleksandras's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
+<a href="https://www.instagram.com/aurimasnausedas/">
+  <img alt="aurimasnausedas's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
 <!-- <a href="https://www.facebook.com/aurimasanausedas">
   <img alt="aurimas13's Facebook" width="50px" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/facebook_free.jpeg" />
