@@ -3,7 +3,7 @@
 <p align="left">   
  <!--  <img height="25px" title="stars" src="https://img.shields.io/github/stars/aurimas13?style=social" alt="stars" title ="Stars"> -->
  <!--  <img height="25px" title="github followers" src="https://img.shields.io/github/followers/aurimas13?style=social" alt="followers" title ="followers"> -->
-  <!-- <a href="https://twitter.com/aurimas1213" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aurimas1213?label=follow Aurimas&style=social" alt="aurimas1213" /></a> -->
+  <!-- <a href="https://twitter.com/aurimasnausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aurimas1213?label=follow Aurimas&style=social" alt="aurimasnausedas" /></a> -->
 </p> 
 <!-- <img height="25px" src="https://img.shields.io/github/followers/aurimas13?label=Followers&style=plastic" alt="followers"> -->
 <!-- https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif -->
@@ -31,7 +31,7 @@ I actively contribute to several projects like [Machine-Learning-Goodness](https
 
 Apart from my technical expertise, I'm also an avid reader and a public speaker, as well as a member of several computing and philanthropic organisations.
 
-Feel free to explore my work, <!-- connect with me on [LinkedIn](https://www.linkedin.com/in/aurimasnausedas/), or --> follow me on [X (previously Twitter)](https://twitter.com/aurimas1213) for exciting updates and conversations. I'm always open to collaborations and opportunities to work on exciting projects!
+Feel free to explore my work, <!-- connect with me on [LinkedIn](https://www.linkedin.com/in/aurimasnausedas/), or --> follow me on [X (previously Twitter)](https://twitter.com/aurimasnausedas) for exciting updates and conversations. I'm always open to collaborations and opportunities to work on exciting projects!
 
 Let's build a future where technology and innovation drive the world towards greater heights. 🚀
 
@@ -93,7 +93,7 @@ Languages & Technologies: `Machine Learning`, `Python`, `Jupyter`, `Docker`, `Py
 
 <h3 align="left"> Get In Touch:</h3>
 <p align="left">
-<a href="https://twitter.com/aurimas1213">
+<a href="https://twitter.com/aurimasnausedas">
   <img alt="aurimasnausedas | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
 </a>
 <!-- <a href="https://www.linkedin.com/in/aurimasnausedas">
