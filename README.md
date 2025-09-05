@@ -31,7 +31,7 @@ I actively contribute to several projects like [Machine-Learning-Goodness](https
 
 Apart from my technical expertise, I'm also an avid reader and a public speaker, as well as a member of several computing and philanthropic organisations.
 
-Feel free to explore my work, <!-- connect with me on [LinkedIn](https://www.linkedin.com/in/aurimasnausedas/), or --> follow me on [X (previously Twitter)](https://twitter.com/aurimasnausedas) for exciting updates and conversations. I'm always open to collaborations and opportunities to work on exciting projects!
+Feel free to explore my work, <!-- connect with me on [LinkedIn](https://www.linkedin.com/in/aurimasnausedas/), or --> follow me on [X (previously Twitter)](https://twitter.com/reksas13) for exciting updates and conversations. I'm always open to collaborations and opportunities to work on exciting projects!
 
 Let's build a future where technology and innovation drive the world towards greater heights. 🚀
 
@@ -93,14 +93,14 @@ Languages & Technologies: `Machine Learning`, `Python`, `Jupyter`, `Docker`, `Py
 
 <h3 align="left"> Get In Touch:</h3>
 <p align="left">
-<a href="https://twitter.com/aurimasnausedas">
-  <img alt="aurimasnausedas | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
+<a href="https://twitter.com/reksas13">
+  <img alt="reksas13 | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
 </a>
 <!-- <a href="https://www.linkedin.com/in/aurimasnausedas">
   <img alt="aurimas13's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a> -->
-<a href="https://www.instagram.com/aurimasnausedas/">
-  <img alt="aurimasnausedas's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
+<a href="https://www.instagram.com/reksas13/">
+  <img alt="reksas13's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
 </a>
 <!-- <a href="https://www.facebook.com/aurimasanausedas">
   <img alt="aurimas13's Facebook" width="50px" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/facebook_free.jpeg" />
