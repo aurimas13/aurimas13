@@ -3,7 +3,7 @@
 <p align="left">   
  <!--  <img height="25px" title="stars" src="https://img.shields.io/github/stars/aurimas13?style=social" alt="stars" title ="Stars"> -->
  <!--  <img height="25px" title="github followers" src="https://img.shields.io/github/followers/aurimas13?style=social" alt="followers" title ="followers"> -->
-  <!-- <a href="https://twitter.com/aurimasnausedas" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/aurimas1213?label=follow Aurimas&style=social" alt="aurimasnausedas" /></a> -->
+  <!-- <a href="https://twitter.com/reksas13" target="blank"><img height="25px" src="https://img.shields.io/twitter/follow/reksas13?label=follow Aurimas&style=social" alt="reksas13" /></a> -->
 </p> 
 <!-- <img height="25px" src="https://img.shields.io/github/followers/aurimas13?label=Followers&style=plastic" alt="followers"> -->
 <!-- https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif -->
