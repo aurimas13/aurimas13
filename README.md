@@ -51,33 +51,9 @@ Let's build a future where technology and innovation drive the world towards gre
 In the overview below, you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CAMD_blue_v4.png"/>](https://www.linkedin.com/company/81844988/admin/)
-**Developer**, **ML Engineer** & **AI Architect** \
-[**Self-Employed**](https://www.linkedin.com/company/81844988/admin/) • Freelance\
-Languages & Technologies:  `Terraform`, `Azure`, `AWS`, `GCP`, `LangChain`, `Databricks`, `Machine Learning`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `Spark`, `GitHub`, `Docker`, `Python`, `Flask`, `Django`, `Hugging Face` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="CodeAcademy" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/cr-software.jpg"/>](https://codeacademy.lt/en/)
-**Technical Consultant** \
-[**C&R Software**](https://codeacademy.lt/en/) • Full-time\
-Languages & Technologies: `Machine Learning`, `Java`, `Python`, `PostgreSQL`, `AWS`, `SQL`, `Teamwork` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="likta" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/likta_bw.png"/>](https://likta.lv/en/home-en/)
-**Teacher** \
-[**Latvian Information and communications technology association (LIKTA)**](https://likta.lv/en/home-en/) • Contract\
-Languages & Technologies: `Teaching`, `Pedagogy`, `Public Speaking` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="CodeAcademy" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CodeAcademy_baltas.png"/>](https://codeacademy.lt/en/)
-**Lecturer** \
-[**Code Academy**](https://codeacademy.lt/en/) • Contract\
-Languages & Technologies: `Teaching`, `Pedagogy`, `Public Speaking` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Euromonitor" src="https://logovectordl.com/wp-content/uploads/2020/04/euromonitor-international-logo-vector.png"/>](https://www.euromonitor.com/)
-**Data Engineer** \
-[**Euromonitor International**](https://www.euromonitor.com/) • Full-time \
-Languages & Technologies: `Machine Learning`, `Python`, `JavaScript`, `GitLab` \
+**Writer**, **ML Engineer**, **AI Developer**, **Teacher**, **Lead** & **AI Architect** \
+[**Self-Employed**](https://www.linkedin.com/company/81844988/admin/) • Self-employed & Contract\
+Languages & Technologies:  `Terraform`, `Azure`, `AWS`, `GCP`, `LangChain`, `Databricks`, `Machine Learning`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `Spark`, `GitHub`, `Docker`, `Python`, `Flask`, `Django`, `Hugging Face`, `Java`, `PostgreSQL`, `SQL`, `JavaScript`, `GitLab`, `Teamwork`, `Teaching`, `Pedagogy`, `Public Speaking` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Vilnius University" src="https://www.vu.lt/site_images/infor/vaizdai_spaudai/Logo_spalvotas.png"/>](https://www.vu.lt/)
