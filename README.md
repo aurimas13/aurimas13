@@ -10,7 +10,7 @@
 <!-- https://github.com/aurimas13/aurimas13/blob/main/docs/images/simple-good-hand-clip-art-170660.png -->
 
 I'm **Aurimas** for Lithuanians and **Alexandre** for others: a Developer, Artificial Intelligence Engineer, Machine Learning Engineer and a passionate Teacher from Vilnius, Lithuania. I'm on a quest to explore the ever-evolving world of technology and install my skill sets of [Computer Science](https://www.udemy.com/certificate/UC-00f510ae-c409-42c9-8f61-b75b254c598d/), [Data Engineering](https://www.udemy.com/certificate/UC-2402535e-44ca-4090-9507-29d094ab24ff/), [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) and [AI](https://www.coursera.org/account/accomplishments/specialization/BFC76LUK5Y3W?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) to whoever needs me.
-I am deeply driven by AGI (human-level AI) and Robot-AI Interactions with emphasis of them in healthcare that I talk about in [Molecule to Machine](https://moleculetomachine.substack.com/) Newsletter.
+I am deeply driven by AGI (human-level AI), AI and Robot-AI Interactions with emphasis of them in healthcare that I talk about in [Molecule to Machine](https://moleculetomachine.substack.com/) Newsletter.
  
 ```yaml
 name: Aurimas
