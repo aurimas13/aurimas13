@@ -53,7 +53,7 @@ In the overview below, you will find my most recent work experience:
 [<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/CAMD_blue_v4.png"/>](https://www.linkedin.com/company/81844988/admin/)
 **AI/Technical Product Manager**, **AI Architect**, **AI Systems Architect**, **Fractional CTO**, **Teacher** & **Writer** \
 [**Self-Employed**](https://www.linkedin.com/company/81844988/admin/) • Self-employed & Contract\
-Languages & Technologies:  `Terraform`, `Azure`, `AWS`, `GCP`, `LangChain`, `Databricks`, `Machine Learning`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `Spark`, `GitHub`, `Docker`, `Python`, `Flask`, `Django`, `Hugging Face`, `Java`, `PostgreSQL`, `SQL`, `JavaScript`, `GitLab`, `Teamwork`, `Teaching`, `Pedagogy`, `Public Speaking` \
+Languages & Technologies:  `Terraform`, `Azure`, `AWS`, `GCP`, `LangChain`, `Databricks`, `Machine Learning`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `Spark`, `GitHub`, `Docker`, `Python`, `Flask`, `Django`, `Hugging Face`, `Java`, `PostgreSQL`, `SQL`, `JavaScript`, `GitLab`, `Teamwork`, `Teaching`, `Strategy`, `Management`, `Delivery`, `Optimization`, `Public Speaking` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Vilnius University" src="https://www.vu.lt/site_images/infor/vaizdai_spaudai/Logo_spalvotas.png"/>](https://www.vu.lt/)
