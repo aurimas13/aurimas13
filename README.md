@@ -43,7 +43,7 @@ Let's build a future where technology and innovation drive the world towards gre
 - 💬 You can also ask me about [AI/ML/AGI](https://www.udemy.com/certificate/UC-8ff31ab5-1be3-4014-8638-01dc2253c0bc/) as my expertise is constantly expanding through recently completed projects like [this](https://github.com/aurimas13/Machine-Learning-Goodness), [this](https://github.com/aurimas13/CodeAcademy-AI-Course), [this](https://github.com/aurimas13/Coursera-Deep-Learning-Specialization), and now consulting people on it 24/7 a week.
 - 💬 Additionally, if you want pieces of advice about [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/) - ask me, as my expertise is built on completing several courses ([Django](https://www.udemy.com/certificate/UC-4c6d7d87-39e7-4152-ad6b-74a154a1a34e/), [GCS with Python](https://www.udemy.com/course/develop-a-social-web-party-application-with-python/learn/lecture/9426334#overview), [Spring Boot - Angular](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/)) and developing programs found [here](https://github.com/aurimas13/Web-programs).
 - 👯 I'm open to collaboration opportunities that need a guidance through lead with fellow developers or AI/ML engineers to assist through my **Machine Learning** skills, work on **AI** or **AGI** projects, **Flask** or more **SQL**, create **Java** and **Python-based** technologies by broadening your and my **Development** arsenal, and other invitations to utilize **Java** and **Python**.
-- 🌱 In summary: I am an AI/Technical Product Lead who is very proficient in **Python**, **Java**, **Machine Learning**, **MLOps**, **LLMOps**, **LLMs**, **AI**, and further expanding my *knowledge* in Management, Delivery, Optimization and Strategy.
+- 🌱 In summary: I am an AI/Technical Product Lead who is very proficient in **Python**, **Java**, **Machine Learning**, **MLOps**, **LLMOps**, **LLMs**, **AI**, and further expanding my *knowledge* in Management, Delivery, Optimization, and Strategy.
 
 
 ### Work Experience
@@ -56,7 +56,7 @@ In the overview below, you will find my most recent work experience:
 Languages & Technologies:  `Terraform`, `Azure`, `AWS`, `GCP`, `LangChain`, `Databricks`, `Machine Learning`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `Spark`, `GitHub`, `Docker`, `Python`, `Flask`, `Django`, `Hugging Face`, `Java`, `PostgreSQL`, `SQL`, `JavaScript`, `GitLab`, `Teamwork`, `Teaching`, `Strategy`, `Management`, `Delivery`, `Optimization`, `Public Speaking` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Vilnius University" src="https://www.vu.lt/site_images/infor/vaizdai_spaudai/Logo_spalvotas.png"/>](https://www.vu.lt/)
+[<img align="left" height="94px" width="94px" alt="Vilnius University" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/Logo_spalvotas.png"/>](https://www.vu.lt/)
 **Research Engineer (Machine Learning)** \
 [**Vilnius University**](https://www.vu.lt/) • Full-time \
 Languages & Technologies: `Machine Learning`, `Python`, `Jupyter`, `Docker`, `PyMOL` \
