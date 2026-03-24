@@ -56,7 +56,7 @@ In the overview below, you will find my most recent work experience:
 Languages & Technologies:  `Terraform`, `Azure`, `AWS`, `GCP`, `LangChain`, `Databricks`, `Machine Learning`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `Spark`, `GitHub`, `Docker`, `Python`, `Flask`, `Django`, `Hugging Face`, `Java`, `PostgreSQL`, `SQL`, `JavaScript`, `GitLab`, `Teamwork`, `Teaching`, `Strategy`, `Management`, `Delivery`, `Optimization`, `Public Speaking` \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Vilnius University" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/Logo_spalvotas.png"/>](https://www.vu.lt/)
+[<img align="left" height="94px" width="94px" alt="Vilnius University" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/Logo_spalvotas_VU.png"/>](https://www.vu.lt/)
 **Research Engineer (Machine Learning)** \
 [**Vilnius University**](https://www.vu.lt/) • Full-time \
 Languages & Technologies: `Machine Learning`, `Python`, `Jupyter`, `Docker`, `PyMOL` \
