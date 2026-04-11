@@ -142,7 +142,7 @@ Work Experience
 <!-- <p><img height="155em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aurimas13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="aurimas13" /></p>
 <p><img height="155em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aurimas13&layout=compact&langs_count=8&theme=algolia" alt="aurimas13" /></p> -->
 <!-- <p><img height="150em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aurimas13&layout=compact&langs_count=8&theme=algolia" alt="aurimas13" /></p> -->
-<br></br> -->
+<br></br> --!>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurimas13&show_icons=true&locale=en&layout=compact" alt="aurimas13" /></p> -->
 
