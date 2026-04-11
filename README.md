@@ -46,7 +46,7 @@ Let's build a future where technology and innovation propel the world to new hei
 <!-- 💬 Additionally, if you want pieces of advice about [Web Development](https://www.udemy.com/certificate/UC-973ac520-05cd-4573-bc68-47b81bee611f/) - ask me, as my expertise is built on completing several courses ([Django](https://www.udemy.com/certificate/UC-4c6d7d87-39e7-4152-ad6b-74a154a1a34e/), [GCS with Python](https://www.udemy.com/course/develop-a-social-web-party-application-with-python/learn/lecture/9426334#overview), [Spring Boot - Angular](https://www.udemy.com/certificate/UC-c396ed1a-9763-47c7-8322-af7e8ab7d3f6/)) and developing programs found [here](https://github.com/aurimas13/Web-programs). --!>
 <!--, work on **AI** or **AGI** projects, **Flask** or more **SQL**, create **Java** and **Python-based** technologies by broadening your and my **Development** arsenal, and other invitations to utilize **Java** and **Python**. --!>
 
-# Work Experience
+### Work Experience
 
 In the overview below, you will find my most recent work experience:
 
