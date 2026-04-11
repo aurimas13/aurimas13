@@ -14,11 +14,11 @@ I am deeply driven by AGI (human-level AI), AI, and Robot-AI Interactions, with 
  
 ```yaml
 name: Aurimas
-located_in: Vilnius, Lithuania
+located_in: Lithuania
 from: Vilnius (Lithuania)
-job: AI/Technical Product Manager, AI Architect**, Fractional CTO & Writer
+job: AI/Technical Product Manager, Fractional CTO, Teacher & Writer
 education: ["Master's in Chemistry", "Certificates in Computer Science"]
-company: CS & ML Design | Code Academy | LIKTA
+company: Vilniaus Asmodas | Euromonitor | Code Academy | LIKTA
 
 fields_of_interests: ["Management", "Product Delivery", "Artificial Intelligence", "Artificial General Intelligence", "Chemistry", "Mental Health", "Robot-AI Interaction", "LLM", "Computer Science", "Data Engineering", "Machine Learning"]
 technical_background: ["Python", "Java", "Machine Learning", "SQL", "Flask", "JavaScript", "Terraform", "Spark", "Databricks", "Azure", "AWS", "GCP"]
@@ -65,9 +65,9 @@ Let's build a future where technology and innovation propel the world to new hei
       </a>
     </td>
     <td valign="top" align="left">
-      <strong>AI/Technical Product Manager</strong>, <strong>Teacher</strong> & <strong>Writer</strong><br/>
+      <strong>AI/Technical Product Manager</strong>, <strong>Fractional CTO<strong>, <strong>Teacher</strong> & <strong>Writer</strong><br/>
       <a href="https://www.linkedin.com/company/81844988/admin/"><strong>Self-Employed</strong></a> • Self-employed & Contract<br/>
-      <strong>Languages & Technologies:</strong> Terraform, Azure, AWS, GCP, LangChain, Databricks, Machine Learning, PyTorch, TensorFlow, Keras, Spark, GitHub, Docker, Python, Flask, Django, Hugging Face, Java, PostgreSQL, SQL, JavaScript, GitLab, Teamwork, Teaching, Strategy, Management, Delivery, Optimization, Public Speaking
+      <strong>Languages & Technologies:</strong> Terraform, Azure, AWS, GCP, LangChain, Databricks, Machine Learning, PyTorch, TensorFlow, Keras, Spark, GitHub, Docker, Python, Flask, Django, Hugging Face, Java, PostgreSQL, SQL, JavaScript, GitLab, Teamwork, Teaching, Strategy, Management, Delivery, Optimization, Public Speaking.
     </td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@ Let's build a future where technology and innovation propel the world to new hei
     <td valign="top" align="left">
       <strong>Research Engineer (Machine Learning)</strong><br/>
       <a href="https://www.vu.lt/"><strong>Vilnius University</strong></a> • Full-time<br/>
-      <strong>Languages & Technologies:</strong> Machine Learning, Python, Jupyter, Docker, PyMOL
+      <strong>Languages & Technologies:</strong> Machine Learning, Python, C++, Java, TensorFlow, PyTorch, MATLAB, Docker, PyMOL.
     </td>
   </tr>
 </table>
