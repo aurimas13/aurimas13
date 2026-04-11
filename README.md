@@ -48,44 +48,83 @@ Let's build a future where technology and innovation propel the world to new hei
 
 ### Work Experience
 
-In the overview below, you will find my most recent work experience:
-
-[<img align="left" height="94px" width="94px" alt="CAMD" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/Onzuls.png"/>](https://onzuls.lt/)
-**AI/Technical Product Manager**, **Teacher** & **Writer** 
-[**Self-Employed**](https://www.linkedin.com/company/81844988/admin/) • Self-employed & Contract\
-Languages & Technologies:  `Terraform`, `Azure`, `AWS`, `GCP`, `LangChain`, `Databricks`, `Machine Learning`, `PyTorch`, `Tensorflow`, `Keras`, `Terraform`, `Spark`, `GitHub`, `Docker`, `Python`, `Flask`, `Django`, `Hugging Face`, `Java`, `PostgreSQL`, `SQL`, `JavaScript`, `GitLab`, `Teamwork`, `Teaching`, `Strategy`, `Management`, `Delivery`, `Optimization`, `Public Speaking` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Vilnius University" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/Logo_spalvotas_VU.png"/>](https://www.vu.lt/)
-**Research Engineer (Machine Learning)** \
-[**Vilnius University**](https://www.vu.lt/) • Full-time \
-Languages & Technologies: `Machine Learning`, `Python`, `Jupyter`, `Docker`, `PyMOL` \
-<br/>
-
-<!-- ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 G𝚒𝚝H𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 or f𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜! -->
-<!-- ## How to reach me: -->
-<!-- You can contact me at the email in my GitHub portfolio. Follow my socials! -->
-<!-- If you are a workaholic or are late to the coding party -->
-
-<h3 align="left"> Get In Touch:</h3>
 <p align="left">
-<a href="https://twitter.com/reksas13">
-  <img alt="reksas13 | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"/>
-</a>
-<!-- <a href="https://www.linkedin.com/in/aurimasnausedas">
-  <img alt="aurimas13's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a> -->
-<a href="https://www.instagram.com/reksas13/">
-  <img alt="reksas13's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
-</a>
-<!-- <a href="https://www.facebook.com/aurimasanausedas">
-  <img alt="aurimas13's Facebook" width="50px" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/facebook_free.jpeg" />
-</a> -->
-<a href="https://open.spotify.com/user/aurimas.n">
-  <img alt="aurimas13's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+  In the overview below, you will find my most recent work experience:
 </p>
-  
+
+<table>
+  <tr>
+    <td valign="top" width="110">
+      <a href="https://onzuls.lt/">
+        <img
+          src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/Onzuls.png"
+          alt="Onzuls"
+          width="94"
+          height="94"
+        />
+      </a>
+    </td>
+    <td valign="top" align="left">
+      <strong>AI/Technical Product Manager</strong>, <strong>Teacher</strong> & <strong>Writer</strong><br/>
+      <a href="https://www.linkedin.com/company/81844988/admin/"><strong>Self-Employed</strong></a> • Self-employed & Contract<br/>
+      <strong>Languages & Technologies:</strong> Terraform, Azure, AWS, GCP, LangChain, Databricks, Machine Learning, PyTorch, TensorFlow, Keras, Spark, GitHub, Docker, Python, Flask, Django, Hugging Face, Java, PostgreSQL, SQL, JavaScript, GitLab, Teamwork, Teaching, Strategy, Management, Delivery, Optimization, Public Speaking
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" height="16"></td>
+  </tr>
+  <tr>
+    <td valign="top" width="110">
+      <a href="https://www.vu.lt/">
+        <img
+          src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/Logo_spalvotas_VU.png"
+          alt="Vilnius University"
+          width="94"
+          height="94"
+        />
+      </a>
+    </td>
+    <td valign="top" align="left">
+      <strong>Research Engineer (Machine Learning)</strong><br/>
+      <a href="https://www.vu.lt/"><strong>Vilnius University</strong></a> • Full-time<br/>
+      <strong>Languages & Technologies:</strong> Machine Learning, Python, Jupyter, Docker, PyMOL
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">Get In Touch:</h3>
+<p align="left">
+  <a href="https://twitter.com/reksas13">
+    <img
+      alt="reksas13 | Twitter"
+      width="50px"
+      src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png"
+    />
+  </a>
+  <a href="https://www.instagram.com/reksas13/">
+    <img
+      alt="reksas13's Instagram"
+      width="50px"
+      src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png"
+    />
+  </a>
+  <a href="https://open.spotify.com/user/aurimas.n">
+    <img
+      alt="aurimas13's Spotify"
+      width="50px"
+      src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png"
+    />
+  </a>
+</p>
+
+<h3 align="left">My GitHub Activity</h3>
+<p align="left">
+  <img
+    height="155em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=aurimas13&show_icons=true&include_all_commits=true"
+    alt="aurimas13"
+  />
+</p>
 <!--  <h3 align="left">  Profile Views:</h3>  -->
  <!-- <p align="left">
     <img height="25px" src="https://gpvc.arturio.dev/aurimas13?style=public" alt="profile views" title="profile views">  
