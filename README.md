@@ -65,8 +65,8 @@ Let's build a future where technology and innovation propel the world to new hei
       </a>
     </td>
     <td valign="top" align="left">
-      <strong>AI/Technical Product Manager</strong>, <strong>Fractional CTO<strong>, <strong>Teacher</strong> & <strong>Writer</strong><br/>
-      <a href="https://www.linkedin.com/company/81844988/admin/"><strong>Self-Employed</strong></a> • Self-employed & Contract<br/>
+      <strong>AI/Technical Product Manager</strong>, <strong>Fractional CTO</strong>, <strong>Teacher</strong> & <strong>Writer</strong><br/>
+      <a href="https://onzuls.lt/"><strong>Self-Employed</strong></a> • Self-employed & Contract<br/>
       <strong>Languages & Technologies:</strong> Terraform, Azure, AWS, GCP, LangChain, Databricks, Machine Learning, PyTorch, TensorFlow, Keras, Spark, GitHub, Docker, Python, Flask, Django, Hugging Face, Java, PostgreSQL, SQL, JavaScript, GitLab, Teamwork, Teaching, Strategy, Management, Delivery, Optimization, Public Speaking.
     </td>
   </tr>
