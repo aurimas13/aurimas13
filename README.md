@@ -1,12 +1,12 @@
 # Hi there 👋🏼
 
-I'm **Aurimas** — an **AI Engineer** and writer from Vilnius, Lithuania, who came to engineering from chemistry. I build and ship LLM-powered systems: fraud/AML detection, RAG pipelines, data tooling, and AI features that work in production, not just in demos. I also taught Python and AI to hundreds of professionals across Lithuania and Latvia, and I write [Molecule to Machine](https://moleculetomachine.substack.com/), a weekly newsletter on AI, science, and what actually ships.
+I'm **Aurimas** — an **AI Engineer** and writer from Vilnius, Lithuania, who transitioned from chemistry to engineering. I build and ship ML/LLM-powered systems: fraud/AML detection, RAG pipelines, data tooling, and AI features that work in production, not just in demos. I also taught Python and AI to hundreds of professionals across Lithuania and Latvia, and I write [Molecule to Machine](https://moleculetomachine.substack.com/), a weekly newsletter on AI, science, and what actually ships.
 
 ```yaml
 name: Aurimas
 located_in: Vilnius, Lithuania
-role: AI Engineer (LLM, RAG, Fraud/AML, Data)
-education: ["MChem, University of Edinburgh", "CS & AI Specialisations (Coursera/Databricks/Azure/AWS)"]
+role: AI Engineer (ML, LLM, Agents, RAG, Fraud/AML, Data)
+education: ["MChem, University of Edinburgh", "CS & AI Specialisations (Anthropic/Coursera/Databricks/Azure/AWS)"]
 works_in: ["English", "Lithuanian", "French"]
 
 core_stack:
@@ -29,6 +29,8 @@ I own AI problems end-to-end — from the data and the prototype to a deployed, 
 
 ## Selected repositories
 
+- **[AI Magic](https://github.com/aurimas13/AI-Magic/tree/main)** — a curated start of a collection of one lesson a day on current AI and ML, drawn as a picture and explained to you like you are five.
+- **[100 Days With AI](https://github.com/aurimas13/100-Days-With-AI/)** — A public learning log of modern Artificial Intelligence.
 - **[Machine-Learning-Goodness](https://github.com/aurimas13/Machine-Learning-Goodness)** — a curated collection of ML/AI resources, notebooks, and notes, with a focus on computer vision and ML in chemistry.
 - **[CodeAcademy-AI-Course](https://github.com/aurimas13/CodeAcademy-AI-Course)** — full course materials and code from teaching AI with Python to adult learners.
 - **[Python-Beginner-Course](https://github.com/aurimas13/Python-Beginner-Course)** — Python teaching materials and exercises.
@@ -40,9 +42,9 @@ I came to computing in chemistry research — molecular dynamics, bioinformatics
 
 I've been writing code in **Python since 2010**, and I'm a member of the [Python Software Foundation](https://www.python.org/psf/), the [Artificial Intelligence Association of Lithuania](https://lithuania.ai/), the [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/), and the [IEEE Computer Society](https://www.computer.org/).
 
-- 🔭 Currently building AI prototypes and writing weekly — open to **AI Engineer / Applied AI / GenAI Engineer** roles across Lithuania, the Baltics, the Nordics, and EU-remote.
+- 🔭 Currently building AI systems, factories and writing weekly — open to **AI Architect/AI Engineer/AI Product Engineer/Applied AI/GenAI Engineer** roles across Lithuania, the Baltics, the Nordics, and EU-remote, with a possible relocation in September of 2027.
 - 🌐 More at **[aurimas.io](https://www.aurimas.io)** and **[Molecule to Machine](https://moleculetomachine.substack.com/)**.
-- 💬 Happy to talk about LLM/RAG systems, fraud/AML, data engineering, or teaching AI to people who don't live in the details.
+- 💬 Happy to talk about AI, ML, LLM/RAG systems/factories, fraud/AML, data engineering, or teaching AI to people who don't live in the details.
 
 ## Get in touch
 
