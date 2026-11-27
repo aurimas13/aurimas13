@@ -1,0 +1,41 @@
+name: Update GitHub stats cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch cards
+        run: |
+          set -u
+          fetch() {
+            local url="$1" out="$2" tmp
+            tmp="$(mktemp)"
+            code=$(curl -sL --max-time 60 -o "$tmp" -w '%{http_code} %{content_type}' "$url" || true)
+            echo "$out: $code"
+            # Keep the previous snapshot unless we got a real SVG, not an error card.
+            if [[ "$code" == 200\ image/svg+xml* ]] && grep -q '<svg' "$tmp" \
+               && ! grep -qiE 'something went wrong|rate limit|could not fetch|error' "$tmp"; then
+              mv "$tmp" "$out"
+            else
+              echo "::warning::Skipping update of $out"
+            fi
+          }
+          fetch "https://github-readme-stats.vercel.app/api?username=aurimas13&show_icons=true&include_all_commits=true" docs/stats/github-stats.svg
+          fetch "https://streak-stats.demolab.com?user=aurimas13" docs/stats/github-streak.svg
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/stats
+          git diff --cached --quiet || (git commit -m "Update GitHub stats cards" && git push)
