@@ -29,9 +29,9 @@ I own AI problems end-to-end — from the data and the prototype to a deployed, 
 
 ## Selected repositories
 
-- **[AI Magic](https://github.com/aurimas13/AI-Magic/tree/main)** — a curated start of a collection of one lesson a day on current AI and ML, drawn as a picture and explained to you like you are five.
-- **[100 Days With AI](https://github.com/aurimas13/100-Days-With-AI/)** — A public learning log of modern Artificial Intelligence.
-- **[Machine Learning Goodness](https://github.com/aurimas13/Machine-Learning-Goodness)** — a curated collection of ML/AI resources, notebooks, and notes, with a focus on computer vision and ML in chemistry.
+- **[AI Magic](https://github.com/aurimas13/AI-Magic/tree/main)** — a new curated collection of one lesson a day on current AI and ML, drawn as a picture.
+- **[100 Days With AI](https://github.com/aurimas13/100-Days-With-AI/)** — A public learning log of modern Artificial Intelligence from June to October 2026.
+- **[Machine Learning Goodness](https://github.com/aurimas13/Machine-Learning-Goodness)** — a curated collection of ML/AI resources, notebooks, and notes.
 - **[CodeAcademy AI Course](https://github.com/aurimas13/CodeAcademy-AI-Course)** — full course materials and code from teaching AI with Python to adult learners.
 - **[Python Beginner Course](https://github.com/aurimas13/Python-Beginner-Course)** — Python teaching materials and exercises.
 - **[Solutions To Problems](https://github.com/aurimas13/Solutions-To-Problems)** — daily Python/SQL solutions to algorithm and interview problems.
