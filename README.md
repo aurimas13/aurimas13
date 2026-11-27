@@ -50,7 +50,7 @@ I've been writing code in **Python since 2010**, and I'm a member of the [Python
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aurimasnausedas/">
-    <img alt="LinkedIn" width="50px" src="https://github.com/aurimas13/aurimas13/blob/main/docs/images/linkedin.png" />
+    <img alt="LinkedIn" width="50px" src="https://raw.githubusercontent.com/aurimas13/aurimas13/main/docs/images/linkedin.png" />
   </a>
   <a href="https://twitter.com/reksas13">
     <img alt="X / Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png" />
@@ -63,7 +63,8 @@ I've been writing code in **Python since 2010**, and I'm a member of the [Python
 ## My GitHub activity
 
 <p align="left">
-  <img height="155em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aurimas13&show_icons=true&include_all_commits=true" alt="aurimas13" />
+  <img height="155em" src="docs/stats/github-stats.svg" alt="aurimas13 GitHub stats" />
+  <img height="155em" src="docs/stats/github-streak.svg" alt="aurimas13 GitHub streak" />
 </p>
 
 
