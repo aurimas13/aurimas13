@@ -1,6 +1,6 @@
 # Hi there 👋🏼
 
-I'm **Aurimas** — an **AI Engineer** and writer from Vilnius, Lithuania, who transitioned from chemistry to engineering. I build and ship ML/LLM-powered systems: fraud/AML detection, RAG pipelines, data tooling, and AI features that work in production, not just in demos. I also taught Python and AI to hundreds of professionals across Lithuania and Latvia, and I write [Molecule to Machine](https://moleculetomachine.substack.com/), a weekly newsletter on AI, science, and what actually ships.
+I'm **Aurimas** — **AI Trifecta** *(AI Architect, AI Product Engineer, AI Engineer)* and **writer** from Vilnius, Lithuania, who transitioned from chemistry to software engineering. I build and ship ML/LLM-powered systems: software factories, Agents, platforms, fraud/AML detection, RAG pipelines, data tooling, and other AI features that work in production — not just in demos. I have also taught Python and AI to hundreds of professionals across Lithuania and Latvia, and I write [Molecule to Machine](https://moleculetomachine.substack.com/), a weekly newsletter on AI, tech, robotics, science, healthcare and what actually ships.
 
 ```yaml
 name: Aurimas
@@ -15,7 +15,7 @@ core_stack:
   data_cloud: ["AWS", "Azure", "Databricks", "Spark", "Airflow", "Pandas", "NumPy", "PostgreSQL", "MS SQL"]
   eval: ["evaluation harnesses", "guardrails", "monitoring", "human-in-the-loop design"]
 
-interests: ["Applied AI", "Fraud/AML", "AI in healthcare & science", "Agentic systems", "Teaching AI"]
+interests: ["Applied AI", "Software Factories", "Fraud/AML", "AI in healthcare & science", "Agentic systems", "Teaching AI"]
 ```
 
 ## What I build
@@ -42,7 +42,7 @@ I came to computing in chemistry research — molecular dynamics, bioinformatics
 
 I've been writing code in **Python since 2010**, and I'm a member of the [Python Software Foundation](https://www.python.org/psf/), the [Artificial Intelligence Association of Lithuania](https://lithuania.ai/), the [Association for the Advancement of Artificial Intelligence (AAAI)](https://www.aaai.org/), and the [IEEE Computer Society](https://www.computer.org/).
 
-- 🔭 Currently building AI systems, factories and writing weekly — open to **AI Architect/AI Engineer/AI Product Engineer/Applied AI/GenAI Engineer** roles across Lithuania, the Baltics, the Nordics, and EU-remote, with a possible relocation in September of 2027.
+- 🔭 Currently building/managing AI systems, factories and writing weekly — open to **AI Architect/AI Engineer/AI Product Engineer/Applied AI/GenAI Engineer** roles across Lithuania, the Baltics, the Nordics, and EU-remote, with a possible relocation in September of 2027.
 - 🌐 More at **[aurimas.io](https://www.aurimas.io)** and **[Molecule to Machine](https://moleculetomachine.substack.com/)**.
 - 💬 Happy to talk about AI, ML, LLM/RAG systems/factories, fraud/AML, data engineering, or teaching AI to people who don't live in the details.
 
